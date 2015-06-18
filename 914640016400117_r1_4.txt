@@ -1,0 +1,3974 @@
+Facility DEC ID: 9146400164
+
+
+                                           PERMIT
+                            Under the Environmental Conservation Law (ECL)
+
+                               IDENTIFICATION INFORMATION
+
+Permit Type: Air Title V Facility
+Permit ID: 9-1464-00164/00117
+             Mod 0 Effective Date: 11/27/2007 Expiration Date: 11/26/2012
+
+              Mod 1 Effective Date: 06/04/2008 Expiration Date: 11/26/2012
+
+              Mod 2 Effective Date: 10/21/2008 Expiration Date: 11/26/2012
+
+              Mod 3 Effective Date: 10/18/2011 Expiration Date: 11/26/2012
+
+              Mod 4 Effective Date: 10/18/2011 Expiration Date: 11/26/2012
+
+              Mod 5 Effective Date: 10/18/2011 Expiration Date: No expiration date.
+
+
+Permit Issued To:3M CO
+               3M CENTER BOX 33331
+               SAINT PAUL, MN 55133-3331
+
+
+Facility:       3M TONAWANDA
+                305 SAWYER AVE
+                TONAWANDA, NY 14150
+
+Contact:        KEITH HELD
+                3M TONAWANDA
+                305 SAWYER AVE
+                TONAWANDA, NY 14150
+                (716) 871-6281
+
+Description:
+This permit modification consolidates three applications, including one (1) significant permit
+modification and two (2) minor permit modifications as follows:
+
+REN1 MOD4 – Significant Modification:
+This project is for the removal of the continuous emission monitors (CEM) for sulfur dioxide
+(SO2) and carbonyl sulfide (COS) located in the Main Stack (Emission Point (EP) U-NCS01).
+In addition, the SO2 CEM located at the RTO stack (EP SEPAR) will be removed. Permit
+requirements for SO2 and COS CEM’s have been removed. The Main Stack SO2 CEM has not
+been relevant since 2005 when the wet air oxidation (WAO) process began operating in place of
+the B2 process/scrubber that generated high SO2 emissions. The CEMs for COS and SO2 are
+not required by NYSDEC or USEPA regulations.
+
+Compliance with emission capping and other permit requirements will be determined using
+emission factors for SO2 and COS derived from stack test data and RATA reports. To
+demonstrate compliance with the 28.43 lb SO2/hr limit for EP SEPAR, 3M will continuously
+monitor the pH of the liquor leaving the separator as a surrogate for SO2 emissions. The pH of
+
+                            DEC Permit Conditions
+                            Renewal 1/Mod 4/FINAL                      Page 1
+Facility DEC ID: 9146400164
+
+
+this liquor directly affects the WAO process. It is critical to maintain the pH of the solution
+above a level of 2.3 to minimize the volatilization of reducible sulfur compounds, which are
+subsequently oxidized to SO2 by the RTO and exhausted through EP SEPAR.
+
+REN1 MOD3 – Minor Modification:
+This project consisted of the installation of a dust collector, Emission Source Control (ESC)
+C0084 to control particulate emissions from Emission Point MC001. A redundant dust
+collector (ESC C0085), that may or may not be installed in the future, was also added to the
+permit. ESC C0084 and ESC C0085 are both associated with Process MCO and are contained in
+Emission Unit U-MAKOT. A decision to install the redundant system, which includes Emission
+Source 00085 and EP MC002 (both added to permit in REN 1 MOD 2, but never installed), will
+be made at a later date. However, 3M has requested that this system be left in the permit to
+avoid any delays (permit) should they decide to install the second system. Particulate emissions
+will not increase as a result of this project.
+
+REN1 MOD5 – Minor Modification:
+This project is for the installation of two (2) new blenders for viscose production (aging). Each
+blender will be vented to the facility's existing Solvent Recovery Unit (SRU). In addition, 3M
+requested the removal of the Bun Coagulation Tanks, Emission Source 00030 from the Title V
+permit, which were physically dismantled in January 2011.
+
+
+
+
+By acceptance of this permit, the permittee agrees that the permit is contingent upon strict
+compliance with the ECL, all applicable regulations, the General Conditions specified and any
+Special Conditions included as part of this permit.
+
+Permit Administrator:            DOUGLAS E BORSCHEL
+                                270 MICHIGAN AVE
+                                BUFFALO, NY 14203-2915
+
+Authorized Signature:       _________________________________            Date: ___ / ___ / _____
+
+
+
+
+                             DEC Permit Conditions
+                             Renewal 1/Mod 4/FINAL                       Page 2
+Facility DEC ID: 9146400164
+
+
+                           Notification of Other State Permittee Obligations
+
+Item A:     Permittee Accepts Legal Responsibility and Agrees to Indemnification
+
+            The permittee expressly agrees to indemnify and hold harmless the Department of
+            Environmental Conservation of the State of New York, its representatives,
+            employees and agents ("DEC") for all claims, suits, actions, and damages, to the
+            extent attributable to the permittee's acts or omissions in connection with the
+            compliance permittee's undertaking of activities in connection with, or operation
+            and maintenance of, the facility or facilities authorized by the permit whether in
+            compliance or not in any compliance with the terms and conditions of the permit.
+            This indemnification does not extend to any claims, suits, actions, or damages to
+            the extent attributable to DEC's own negligent or intentional acts or omissions, or
+            to any claims, suits, or actions naming the DEC and arising under article 78 of the
+            New York Civil Practice Laws and Rules or any citizen suit or civil rights
+            provision under federal or state laws.
+
+
+Item B:     Permittee's Contractors to Comply with Permit
+
+            The permittee is responsible for informing its independent contractors, employees,
+            agents and assigns of their responsibility to comply with this permit, including all
+            special conditions while acting as the permittee's agent with respect to the
+            permitted activities, and such persons shall be subject to the same sanctions for
+            violations of the Environmental Conservation Law as those prescribed for the
+            permittee.
+
+
+Item C:     Permittee Responsible for Obtaining Other Required Permits
+
+            The permittee is responsible for obtaining any other permits, approvals, lands,
+            easements and rights-of-way that may be required to carry out the activities that
+            are authorized by this permit.
+
+
+Item D:     No Right to Trespass or Interfere with Riparian Rights
+
+            This permit does not convey to the permittee any right to trespass upon the lands
+            or interfere with the riparian rights of others in order to perform the permitted
+            work nor does it authorize the impairment of any rights, title, or interest in real or
+            personal property held or vested in a person not a party to the permit.
+
+
+
+
+                           DEC Permit Conditions
+                           Renewal 1/Mod 4/FINAL                        Page 3
+Facility DEC ID: 9146400164
+
+
+                          LIST OF CONDITIONS
+
+
+
+                   DEC GENERAL CONDITIONS
+                   General Provisions
+            Facility Inspection by the Department
+   Relationship of this Permit to Other Department Orders and
+                       Determinations
+            Applications for permit renewals, modifications and transfers
+            Permit modifications, suspensions or revocations by the Department
+            Permit modifications, suspensions or revocations by the Department
+            Permit modifications, suspensions or revocations by the Department
+                   Facility Level
+   Submission of application for permit modification or
+                       renewal-REGION 9 HEADQUARTERS
+   Submission of application for permit modification or
+                       renewal-REGION 9 HEADQUARTERS
+
+
+
+
+                          DEC Permit Conditions
+                          Renewal 1/Mod 4/FINAL                    Page 4
+Facility DEC ID: 9146400164
+
+
+                              DEC GENERAL CONDITIONS
+                              **** General Provisions ****
+              For the purpose of your Title V permit, the following section contains
+                          state-only enforceable terms and conditions.
+                   GENERAL CONDITIONS - Apply to ALL Authorized Permits.
+
+
+Condition 1: Facility Inspection by the Department
+             Applicable State Requirement:         ECL 19-0305
+
+Item 1.1:
+The permitted site or facility, including relevant records, is subject to inspection at reasonable
+hours and intervals by an authorized representative of the Department of Environmental
+Conservation (the Department) to determine whether the permittee is complying with this permit
+and the ECL. Such representative may order the work suspended pursuant to ECL 71-0301 and
+SAPA 401(3).
+
+Item 1.2:
+The permittee shall provide a person to accompany the Department's representative during an
+inspection to the permit area when requested by the Department.
+
+Item 1.3:
+A copy of this permit, including all referenced maps, drawings and special conditions, must be
+available for inspection by the Department at all times at the project site or facility. Failure to
+produce a copy of the permit upon request by a Department representative is a violation of this
+permit.
+
+Condition 2: Relationship of this Permit to Other Department Orders and Determinations
+             Applicable State Requirement:           ECL 3-0301 (2) (m)
+
+Item 2.1:
+Unless expressly provided for by the Department, issuance of this permit does not modify,
+supersede or rescind any order or determination previously issued by the Department or any of
+the terms, conditions or requirements contained in such order or determination.
+
+Condition 3: Applications for permit renewals, modifications and transfers
+             Applicable State Requirement:          6 NYCRR 621.11
+
+Item 3.1:
+The permittee must submit a separate written application to the Department for renewal,
+modification or transfer of this permit. Such application must include any forms or supplemental
+information the Department requires. Any renewal, modification or transfer granted by the
+Department must be in writing.
+
+Item 3.2:
+The permittee must submit a renewal application at least 180 days before expiration of permits
+for Title V Facility Permits, or at least 30 days before expiration of permits for State Facility
+Permits.
+
+Item 3.3:
+Permits are transferrable with the approval of the department unless specifically prohibited by
+the statute, regulation or another permit condition. Applications for permit transfer should be
+
+                             DEC Permit Conditions
+                             Renewal 1/Mod 4/FINAL                       Page 5
+Facility DEC ID: 9146400164
+
+
+submitted prior to actual transfer of ownership.
+
+Condition 4-1:            Permit modifications, suspensions or revocations by the
+Department
+             Applicable State Requirement:          6 NYCRR 621.13
+
+Item 4-1.1:
+The Department reserves the right to modify, suspend, or revoke this permit in accordance with
+6NYCRR Part 621. The grounds for modification, suspension or revocation include:
+
+a) materially false or inaccurate statements in the permit application or supporting papers;
+b) failure by the permittee to comply with any terms or conditions of the permit;
+c) exceeding the scope of the project as described in the permit application;
+d) newly discovered material information or a material change in environmental conditions,
+relevant technology or applicable law or regulations since the issuance of the existing permit;
+e) noncompliance with previously issued permit conditions, orders of the commissioner, any
+provisions of the Environmental Conservation Law or regulations of the Department related to
+the permitted activity.
+
+Condition 4: Permit modifications, suspensions or revocations by the Department
+             Applicable State Requirement:           6 NYCRR 621.13
+
+Item 4.1:
+The Department reserves the right to modify, suspend, or revoke this permit in accordance with
+6NYCRR Part 621. The grounds for modification, suspension or revocation include:
+
+              a) materially false or inaccurate statements in the permit application or supporting
+papers;
+              b) failure by the permittee to comply with any terms or conditions of the permit;
+              c) exceeding the scope of the project as described in the permit application;
+              d) newly discovered material information or a material change in environmental
+conditions, relevant         technology or applicable law or regulations since the issuance of the
+existing permit;
+              e) noncompliance with previously issued permit conditions, orders of the
+commissioner, any            provisions of the Environmental Conservation Law or regulations of
+the Department               related to the permitted activity.
+
+Condition 4-2:            Permit modifications, suspensions or revocations by the
+Department
+             Applicable State Requirement:          6 NYCRR 621.13
+
+Item 4-2.1:
+The Department reserves the right to exercise all available authority to modify, suspend, or
+revoke this permit in accordance with 6NYCRR Part 621. The grounds for modification,
+suspension or revocation include:
+
+a) materially false or inaccurate statements in the permit application or supporting papers;
+b) failure by the permittee to comply with any terms or conditions of the permit;
+c) exceeding the scope of the project as described in the permit application;
+d) newly discovered material information or a material change in environmental conditions,
+relevant technology or applicable law or regulations since the issuance of the existing permit;
+e) noncompliance with previously issued permit conditions, orders of the commissioner, any
+
+                             DEC Permit Conditions
+                             Renewal 1/Mod 4/FINAL                      Page 6
+Facility DEC ID: 9146400164
+
+
+provisions of the Environmental Conservation Law or regulations of the Department related to
+the permitted activity.
+
+
+
+
+                                **** Facility Level ****
+
+Condition 5: Submission of application for permit modification or renewal-REGION 9
+             HEADQUARTERS
+             Applicable State Requirement:          6 NYCRR 621.6 (a)
+
+Item 5.1:
+Submission of applications for permit modification or renewal are to be submitted to:
+             NYSDEC Regional Permit Administrator
+             Region 9 Headquarters
+             Division of Environmental Permits
+             270 Michigan Avenue
+             Buffalo, NY 14203-2999
+             (716) 851-7165
+
+Condition 4-3:            Submission of application for permit modification or
+renewal-REGION 9
+             HEADQUARTERS
+             Applicable State Requirement:           6 NYCRR 621.6 (a)
+
+Item 4-3.1:
+Submission of applications for permit modification or renewal are to be submitted to:
+             NYSDEC Regional Permit Administrator
+             Region 9 Headquarters
+             Division of Environmental Permits
+             270 Michigan Avenue
+             Buffalo, NY 14203-2915
+             (716) 851-7165
+
+
+
+
+                            DEC Permit Conditions
+                            Renewal 1/Mod 4/FINAL                     Page 7
+Permit ID: 9-1464-00164/00117                 Facility DEC ID: 9146400164
+
+
+                  Permit Under the Environmental Conservation Law (ECL)
+
+                ARTICLE 19: AIR POLLUTION CONTROL - TITLE V PERMIT
+
+                           IDENTIFICATION INFORMATION
+
+Permit Issued To:3M CO
+                3M CENTER BOX 33331
+                SAINT PAUL, MN 55133-3331
+
+
+Facility:        3M TONAWANDA
+                 305 SAWYER AVE
+                 TONAWANDA, NY 14150
+
+Authorized Activity By Standard Industrial Classification Code:
+       2821 - PLASTICS MATERIALS AND RESINS
+       3089 - PLASTICS PRODUCTS, NEC
+
+Mod 0 Permit Effective Date: 11/27/2007                Permit Expiration Date: 11/26/2012
+
+Mod 1 Permit Effective Date: 06/04/2008                Permit Expiration Date: 11/26/2012
+
+Mod 2 Permit Effective Date: 10/21/2008                Permit Expiration Date: 11/26/2012
+
+Mod 4 Permit Effective Date: 10/18/2011                Permit Expiration Date: 11/26/2012
+
+
+
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 1                      FINAL
+Permit ID: 9-1464-00164/00117             Facility DEC ID: 9146400164
+
+
+            LIST OF CONDITIONS
+
+
+
+           FEDERALLY ENFORCEABLE CONDITIONS
+           Facility Level
+  1 6 NYCRR 200.6: Acceptable Ambient Air Quality
+  4-1 6 NYCRR 201-6.5 (a) (7): Fees
+  3 6 NYCRR 201-6.5 (c): Recordkeeping and reporting of compliance
+           monitoring
+  4 6 NYCRR 201-6.5 (c) (2): Monitoring, Related Recordkeeping, and
+           Reporting Requirements.
+  5 6 NYCRR 201-6.5 (c) (3) (ii): Compliance Certification
+  6 6 NYCRR 201-6.5 (e): Compliance Certification
+  7 6 NYCRR 202-2.1: Compliance Certification
+  8 6 NYCRR 202-2.5: Recordkeeping requirements
+  4-2 6 NYCRR 215.2: Open Fires - Prohibitions
+  10 6 NYCRR 200.7: Maintenance of Equipment
+  11 6 NYCRR 201-1.7: Recycling and Salvage
+  12 6 NYCRR 201-1.8: Prohibition of Reintroduction of Collected
+           Contaminants to the air
+  13 6 NYCRR 201-3.2 (a): Exempt Sources - Proof of Eligibility
+  14 6 NYCRR 201-3.3 (a): Trivial Sources - Proof of Eligibility
+  15 6 NYCRR 201-6.5 (a) (4): Standard Requirement - Provide Information
+  16 6 NYCRR 201-6.5 (a) (8): General Condition - Right to Inspect
+  17 6 NYCRR 201-6.5 (d) (5): Standard Requirements - Progress Reports
+  18 6 NYCRR 201-6.5 (f) (6): Off Permit Changes
+  4-3 6 NYCRR 202-1.1: Required Emissions Tests
+  21 40 CFR Part 68: Accidental release provisions.
+  22 40CFR 82, Subpart F: Recycling and Emissions Reduction
+  23 6 NYCRR Subpart 201-6: Emission Unit Definition
+  24 6 NYCRR 201-6.5 (g): Non Applicable requirements
+  25 6 NYCRR Subpart 201-7: Facility Permissible Emissions
+  *4-4 6 NYCRR Subpart 201-7: Capping Monitoring Condition
+  *27 6 NYCRR Subpart 201-7: Capping Monitoring Condition
+  *28 6 NYCRR Subpart 201-7: Capping Monitoring Condition
+  *29 6 NYCRR Subpart 201-7: Capping Monitoring Condition
+  4-5 6 NYCRR 211.1: Air pollution prohibited
+  30 6 NYCRR 212.6 (a): Compliance Certification
+  31 40CFR 63.5505(a), Subpart UUUU: Compliance Certification
+  32 40CFR 63.5505(a), Subpart UUUU: Compliance Certification
+  33 40CFR 63.5515(c), Subpart UUUU: Startup, shutdown and malfunction
+           plan (SSM).
+  34 40CFR 63.5545(a), Subpart UUUU: Compliance Certification
+  35 40CFR 63.5580(a), Subpart UUUU: Compliance Certification
+           Emission Unit Level
+  36 6 NYCRR Subpart 201-6: Emission Point Definition By Emission Unit
+  37 6 NYCRR Subpart 201-6: Process Definition By Emission Unit
+  4-6 6 NYCRR Subpart 201-7: Emission Unit Permissible Emissions
+
+           EU=U-BOILS
+  38 40CFR 60.42c(d), NSPS Subpart Dc: Compliance Certification
+
+                             Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                 Page 2                      FINAL
+Permit ID: 9-1464-00164/00117              Facility DEC ID: 9146400164
+
+
+
+           EU=U-BOILS,Proc=279
+  39 40CFR 60.11(e)(1), NSPS Subpart A: Compliance Certification
+  40 40CFR 60.44c(h), NSPS Subpart Dc: Compliance Certification
+
+          EU=U-MAKOT
+  41 6 NYCRR 212.10: Compliance Certification
+
+           EU=U-MAKOT,Proc=MCO
+  4-7 6 NYCRR 212.4 (c): Compliance Certification
+
+           EU=U-NCS01
+  42 6 NYCRR 212.4 (c): Compliance Certification
+  43 40CFR 63.5505(b), Subpart UUUU: Compliance Certification
+
+          EU=U-NCS01,Proc=NCS
+  44 6 NYCRR 212.10: Compliance Certification
+
+           EU=U-NCS01,Proc=SRU
+  45 6 NYCRR 212.9: Compliance Certification
+  46 6 NYCRR 212.10: Compliance Certification
+  4-8 6 NYCRR 212.11 (b) (3): Compliance Certification
+
+           EU=U-NCS01,EP=NCS01,Proc=NCS,ES=00120
+  1-1 6 NYCRR 212.10 (c) (4) (iii): Compliance Certification
+
+           EU=U-SEPAR
+  48 6 NYCRR 212.9 (b): Compliance Certification
+  49 40CFR 63.5505(b), Subpart UUUU: Compliance Certification
+
+            EU=U-SEPAR,EP=SEPAR
+
+  4-9 6 NYCRR 212.5 (d): Compliance Certification
+  51 6 NYCRR 212.10 (c) (4) (i): Compliance Certification
+
+           EU=U-TANKS
+  52 40CFR 63.5505(a), Subpart UUUU: Nitrogen unloading and storage
+          system for carbon disulfide.
+
+           STATE ONLY ENFORCEABLE CONDITIONS
+           Facility Level
+  53 ECL 19-0301: Contaminant List
+  4-10 6 NYCRR 201-1.4: Unavoidable noncompliance and violations
+  4-11 6 NYCRR 211.2: Visible Emissions Limited
+           Emission Unit Level
+
+          EU=U-BOILS
+  56 6 NYCRR 227-1.2 (a) (2): Compliance Demonstration
+
+            NOTE: * preceding the condition number indicates capping.
+
+
+
+
+                             Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                 Page 3                      FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+               FEDERALLY ENFORCEABLE CONDITIONS
+                     **** Facility Level ****
+
+
+        NOTIFICATION OF GENERAL PERMITTEE OBLIGATIONS
+    The items listed below are not subject to the annual compliance certification
+    requirements under Title V. Permittees may also have other obligations
+                          under regulations of general applicability.
+
+Item A:     Emergency Defense - 6 NYCRR 201-1.5
+
+            An emergency constitutes an affirmative defense to an
+            action brought for noncompliance with emissions
+            limitations or permit conditions for all facilities in New
+            York State.
+
+            (a) The affirmative defense of emergency shall be
+            demonstrated through properly signed, contemporaneous
+            operating logs, or other relevant evidence that:
+
+                           (1) An emergency occurred and that the facility owner
+            and/or
+              operator can identify the cause(s) of the
+            emergency;
+                           (2) The equipment at the permitted facility causing the
+             emergency was at the time being properly operated;
+                           (3) During the period of the emergency the facility owner
+            and/or operator took all reasonable steps to minimize
+            levels of emissions that exceeded the emission standards,
+            or other requirements in the permit; and
+                           (4) The facility owner and/or operator notified the
+            Department
+             within two working days after the event occurred. This
+            notice must contain a description of the emergency, any
+            steps taken to mitigate emissions, and corrective actions
+            taken.
+
+            (b) In any enforcement proceeding, the facility owner
+            and/or operator seeking to establish the occurrence of an
+            emergency has the burden of proof.
+
+            (c) This provision is in addition to any emergency or
+            upset provision contained in any applicable requirement.
+
+Item B:     Public Access to Recordkeeping for Title V Facilities - 6
+            NYCRR 201-1.10 (b)
+            The Department will make available to the public any
+            permit application, compliance plan, permit, and
+            monitoring and compliance certification report pursuant to
+            Section 503(e) of the Act, except for information entitled
+            to confidential treatment pursuant to 6 NYCRR Part 616 -
+            Public Access to records and Section 114(c) of the Act.
+
+                               Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                   Page 4                      FINAL
+Permit ID: 9-1464-00164/00117                Facility DEC ID: 9146400164
+
+
+
+Item C:     Timely Application for the Renewal of Title V Permits - 6
+            NYCRR 201-6.3 (a) (4)
+            Owners and/or operators of facilities having an issued
+            Title V permit shall submit a complete application at
+            least 180 days, but not more than eighteen months, prior
+            to the date of permit expiration for permit renewal
+            purposes.
+
+Item D:     Certification by a Responsible Official - 6 NYCRR 201-6.3
+            (d) (12)
+            Any application, form, report or compliance certification
+            required to be submitted pursuant to the federally
+            enforceable portions of this permit shall contain a
+            certification of truth, accuracy and completeness by a
+            responsible official. This certification shall state that
+            based on information and belief formed after reasonable
+            inquiry, the statements and information in the document
+            are true, accurate, and complete.
+
+Item E:     Requirement to Comply With All Conditions - 6 NYCRR
+            201-6.5 (a) (2)
+            The permittee must comply with all conditions of the
+            Title V facility permit. Any permit non-compliance
+            constitutes a violation of the Act and is grounds for
+            enforcement action; for permit termination, revocation and
+            reissuance, or modification; or for denial of a permit
+            renewal application.
+
+Item F:     Permit Revocation, Modification, Reopening, Reissuance or
+            Termination, and Associated Information Submission
+            Requirements - 6 NYCRR 201-6.5 (a) (3)
+            This permit may be modified, revoked, reopened and
+            reissued, or terminated for cause. The filing of a request
+            by the permittee for a permit modification, revocation and
+            reissuance, or termination, or of a notification of
+            planned changes or anticipated noncompliance does not stay
+            any permit condition.
+
+Item G:     Cessation or Reduction of Permitted Activity Not a
+            Defense - 6 NYCRR 201-6.5 (a) (5)
+            It shall not be a defense for a permittee in an
+            enforcement action to claim that a cessation or reduction
+            in the permitted activity would have been necessary in
+            order to maintain compliance with the conditions of this
+            permit.
+
+Item H:     Property Rights - 6 NYCRR 201-6.5 (a) (6)
+
+            This permit does not convey any property rights of any
+            sort or any exclusive privilege.
+
+
+
+                              Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                  Page 5                      FINAL
+Permit ID: 9-1464-00164/00117                 Facility DEC ID: 9146400164
+
+
+Item I:     Severability - 6 NYCRR 201-6.5 (a) (9)
+
+            If any provisions, parts or conditions of this permit are
+            found to be invalid or are the subject of a challenge, the
+            remainder of this permit shall continue to be valid.
+
+Item J:     Permit Shield - 6 NYCRR 201-6.5 (g)
+
+            All permittees granted a Title V facility permit shall be
+            covered under the protection of a permit shield, except as
+            provided under 6 NYCRR Subpart 201-6. Compliance with the
+            conditions of the permit shall be deemed compliance with
+            any applicable requirements as of the date of permit
+            issuance, provided that such applicable requirements are
+            included and are specifically identified in the permit, or
+            the Department, in acting on the permit application or
+            revision, determines in writing that other requirements
+            specifically identified are not applicable to the major
+            stationary source, and the permit includes the
+            determination or a concise summary thereof. Nothing herein
+            shall preclude the Department from revising or revoking
+            the permit pursuant to 6 NYCRR Part 621 or from exercising
+            its summary abatement authority. Nothing in this permit
+            shall alter or affect the following:
+
+            i. The ability of the Department to seek to bring suit
+            on behalf of the State of New York, or the Administrator
+            to seek to bring suit on behalf of the United States, to
+            immediately restrain any person causing or contributing to
+            pollution presenting an imminent and substantial
+            endangerment to public health, welfare or the environment
+            to stop the emission of air pollutants causing or
+            contributing to such pollution;
+
+            ii. The liability of a permittee of the Title V
+            facility for any violation of applicable requirements
+            prior to or at the time of permit issuance;
+
+            iii. The applicable requirements of Title IV of the
+            Act;
+
+            iv. The ability of the Department or the Administrator
+            to obtain information from the permittee concerning the
+            ability to enter, inspect and monitor the facility.
+
+Item K:     Reopening for Cause - 6 NYCRR 201-6.5 (i)
+
+            This Title V permit shall be reopened and revised under
+            any of the following circumstances:
+
+            i. If additional applicable requirements under the Act
+            become applicable where this permit's remaining term is
+
+                               Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                   Page 6                      FINAL
+Permit ID: 9-1464-00164/00117                Facility DEC ID: 9146400164
+
+
+            three or more years, a reopening shall be completed not
+            later than 18 months after promulgation of the applicable
+            requirement. No such reopening is required if the
+            effective date of the requirement is later than the date
+            on which this permit is due to expire, unless the original
+            permit or any of its terms and conditions has been
+            extended by the Department pursuant to the provisions of
+            Part 201-6.7 and Part 621.
+
+            ii. The Department or the Administrator determines
+            that the permit contains a material mistake or that
+            inaccurate statements were made in establishing the
+            emissions standards or other terms or conditions of the
+            permit.
+
+            iii. The Department or the Administrator determines
+            that the Title V permit must be revised or reopened to
+            assure compliance with applicable requirements.
+
+            iv. If the permitted facility is an "affected source"
+            subject to the requirements of Title IV of the Act, and
+            additional requirements (including excess emissions
+            requirements) become applicable. Upon approval by the
+            Administrator, excess emissions offset plans shall be
+            deemed to be incorporated into the permit.
+
+             Proceedings to reopen and issue Title V facility permits
+            shall follow the same procedures as apply to initial
+            permit issuance but shall affect only those parts of the
+            permit for which cause to reopen exists.
+
+             Reopenings shall not be initiated before a notice of such
+            intent is provided to the facility by the Department at
+            least thirty days in advance of the date that the permit
+            is to be reopened, except that the Department may provide
+            a shorter time period in the case of an emergency.
+
+Item L:     Permit Exclusion - ECL 19-0305
+            The issuance of this permit by the Department and the
+            receipt thereof by the Applicant does not and shall not be
+            construed as barring, diminishing, adjudicating or in any
+            way affecting any legal, administrative or equitable
+            rights or claims, actions, suits, causes of action or
+            demands whatsoever that the Department may have against
+            the Applicant for violations based on facts and
+            circumstances alleged to have occurred or existed prior to
+            the effective date of this permit, including, but not
+            limited to, any enforcement action authorized pursuant to
+            the provisions of applicable federal law, the
+            Environmental Conservation Law of the State of New York
+            (ECL) and Chapter III of the Official Compilation of the
+            Codes, Rules and Regulations of the State of New York
+
+                              Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                  Page 7                      FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+               (NYCRR). The issuance of this permit also shall not in any
+               way affect pending or future enforcement actions under the
+               Clean Air Act brought by the United States or any person.
+
+Item M:        Federally Enforceable Requirements - 40 CFR 70.6 (b)
+               All terms and conditions in this permit required by the
+               Act or any applicable requirement, including any
+               provisions designed to limit a facility's potential to
+               emit, are enforceable by the Administrator and citizens
+               under the Act. The Department has, in this permit,
+               specifically designated any terms and conditions that are
+               not required under the Act or under any of its applicable
+               requirements as being enforceable under only state
+               regulations.
+
+
+   MANDATORY FEDERALLY ENFORCEABLE PERMIT CONDITIONS
+   SUBJECT TO ANNUAL CERTIFICATIONS AT ALL TIMES
+
+   The following federally enforceable permit conditions are mandatory for all
+   Title V permits and are subject to annual compliance certification
+   requirements at all times.
+
+
+Condition 1:       Acceptable Ambient Air Quality
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 200.6
+
+Item 1.1:
+Notwithstanding the provisions of 6 NYCRR Chapter III, Subchapter A, no person shall allow or
+permit any air contamination source to emit air contaminants in quantities which alone or in
+combination with emissions from other air contamination sources would contravene any
+applicable ambient air quality standard and/or cause air pollution. In such cases where
+contravention occurs or may occur, the Commissioner shall specify the degree and/or method of
+emission control required.
+
+Condition 4-1:      Fees
+                   Effective between the dates of 10/18/2011 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-6.5 (a) (7)
+
+                  Replaces Condition(s) 2
+Item 4-1.1:
+The owner and/or operator of a stationary source shall pay fees to the Department consistent
+with the fee schedule authorized by ECL 72-0303.
+
+Condition 3:       Recordkeeping and reporting of compliance monitoring
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-6.5 (c)
+
+
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 8                      FINAL
+Permit ID: 9-1464-00164/00117                    Facility DEC ID: 9146400164
+
+
+Item 3.1:
+The following information must be included in any required compliance monitoring records and
+reports:
+
+(i) The date, place, and time of sampling or measurements;
+
+(ii) The date(s) analyses were performed;
+
+(iii)The company or entity that performed the analyses;
+
+(iv) The analytical techniques or methods used including quality assurance and quality control
+procedures if required;
+
+(v) The results of such analyses including quality assurance data where required; and
+
+(vi) The operating conditions as existing at the time of sampling or measurement.
+
+Any deviation from permit requirements must be clearly identified in all records and reports.
+Reports must be certified by a responsible official, consistent with Section 201-6.3 of this Part
+201.
+
+Condition 4:      Monitoring, Related Recordkeeping, and Reporting
+               Requirements.
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-6.5 (c) (2)
+
+Item 4.1:
+Compliance monitoring and recordkeeping shall be conducted according to the terms and
+conditions contained in this permit and shall follow all quality assurance requirements found in
+applicable regulations. Records of all monitoring data and support information must be retained
+for a period of at least 5 years from the date of the monitoring, sampling, measurement, report,
+or application. Support information includes all calibration and maintenance records and all
+original strip-chart recordings for continuous monitoring instrumentation, and copies of all
+reports required by the permit.
+
+Condition 5:       Compliance Certification
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-6.5 (c) (3) (ii)
+
+Item 5.1:
+The Compliance Certification activity will be performed for the Facility.
+
+Item 5.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: RECORD KEEPING/MAINTENANCE PROCEDURES
+Monitoring Description:
+             To meet the requirements of this facility permit with
+             respect to reporting, the permittee must:
+
+
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 9                      FINAL
+Permit ID: 9-1464-00164/00117                 Facility DEC ID: 9146400164
+
+
+                            Submit reports of any required monitoring at a minimum
+            frequency of every 6 months, based on a calendar year
+            reporting schedule. These reports shall be submitted to
+            the Department within 30 days after the end of a reporting
+            period. All instances of deviations from permit
+            requirements must be clearly identified in such reports.
+            All required reports must be certified by the responsible
+            official for this facility.
+
+                            Notify the Department and report permit deviations and
+            incidences of noncompliance stating the probable cause of
+            such deviations, and any corrective actions or preventive
+            measures taken. Where the underlying applicable
+            requirement contains a definition of prompt or otherwise
+            specifies a time frame for reporting deviations, that
+            definition or time frame shall govern. Where the
+            underlying applicable requirement fails to address the
+            time frame for reporting deviations, reports of deviations
+            shall be submitted to the permitting authority based on
+            the following schedule:
+
+                           (1) For emissions of a hazardous air pollutant (as
+            identified in an applicable regulation) that continue for
+            more than an hour in excess of permit requirements, the
+            report must be made within 24 hours of the
+            occurrence.
+
+                           (2) For emissions of any regulated air pollutant,
+            excluding those listed in paragraph (1) of this section,
+            that continue for more than two hours in excess of permit
+            requirements, the report must be made within 48
+            hours.
+
+                           (3) For all other deviations from permit requirements,
+            the report shall be contained in the 6 month monitoring
+            report required above.
+
+                           (4) This permit may contain a more stringent reporting
+            requirement than required by paragraphs (1), (2) or (3)
+            above. If more stringent reporting requirements have been
+            placed in this permit or exist in applicable requirements
+            that apply to this facility, the more stringent reporting
+            requirement shall apply.
+
+                            If above paragraphs (1) or (2) are met, the source must
+            notify the permitting authority by telephone during normal
+            business hours at the Regional Office of jurisdiction for
+            this permit, attention Regional Air Pollution Control
+            Engineer (RAPCE) according to the timetable listed in
+            paragraphs (1) and (2) of this section. For deviations
+            and incidences that must be reported outside of normal
+            business hours, on weekends, or holidays, the DEC Spill
+
+                               Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                   Page 10                     FINAL
+Permit ID: 9-1464-00164/00117                 Facility DEC ID: 9146400164
+
+
+            Hotline phone number at 1-800-457-7362 shall be used. A
+            written notice, certified by a responsible official
+            consistent with 6 NYCRR Part 201-6.3(d)(12), must be
+            submitted within 10 working days of an occurrence for
+            deviations reported under (1) and (2). All deviations
+            reported under paragraphs (1) and (2) of this section must
+            also be identified in the 6 month monitoring report
+            required above.
+
+                           The provisions of 6 NYCRR 201-1.4 shall apply if the
+            permittee seeks to have a violation excused unless
+            otherwise limited by regulation. In order to have a
+            violation of a federal regulation (such as a new source
+            performance standard or national emissions standard for
+            hazardous air pollutants) excused, the specific federal
+            regulation must provide for an affirmative defense during
+            start-up, shutdowns, malfunctions or upsets.
+            Notwithstanding any recordkeeping and reporting
+            requirements in 6 NYCRR 201-1.4, reports of any deviations
+            shall not be on a less frequent basis than the reporting
+            periods described in paragraphs (1) and (4) above.
+
+                           In the case of any condition contained in this permit
+            with a reporting requirement of "Upon request by
+            regulatory agency" the permittee shall include in the
+            semiannual report, a statement for each such condition
+            that the monitoring or recordkeeping was performed as
+            required or requested and a listing of all instances of
+            deviations from these requirements.
+
+                          In the case of any emission testing performed during the
+            previous six month reporting period, either due to a
+            request by the Department, EPA, or a regulatory
+            requirement, the permittee shall include in the semiannual
+            report a summary of the testing results and shall indicate
+            whether or not the Department or EPA has approved the
+            results.
+
+                           All semiannual reports shall be submitted to the
+            Administrator (or his or her representative) as well as
+            two copies to the Department (one copy to the regional air
+            pollution control engineer (RAPCE) in the regional office
+            and one copy to the Bureau of Compliance Monitoring and
+            Enforcement (BCME) in the DEC central office). Mailing
+            addresses for the above referenced persons are contained
+            in the monitoring condition for 6 NYCRR Part 201-6.5(e),
+            contained elsewhere in this permit.
+
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+                               Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                   Page 11                     FINAL
+Permit ID: 9-1464-00164/00117                    Facility DEC ID: 9146400164
+
+
+
+Condition 6:       Compliance Certification
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-6.5 (e)
+
+Item 6.1:
+The Compliance Certification activity will be performed for the Facility.
+
+Item 6.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: RECORD KEEPING/MAINTENANCE PROCEDURES
+Monitoring Description:
+             Requirements for compliance certifications with terms and
+             conditions contained in this facility permit include the
+             following:
+
+               i. Compliance certifications shall contain:
+               - the identification of each term or condition of the
+               permit that is the basis of the certification;
+               - the compliance status;
+               - whether compliance was continuous or intermittent;
+               - the method(s) used for determining the compliance status
+               of the facility, currently and over the reporting period
+               consistent with the monitoring and related recordkeeping
+               and reporting requirements of this permit;
+               - such other facts as the Department may require to
+               determine the compliance status of the facility as
+               specified in any special permit terms or conditions;
+               and
+               - such additional requirements as may be specified
+               elsewhere in this permit related to compliance
+               certification.
+
+               ii. The responsible official must include in the annual
+               certification report all terms and conditions contained in
+               this permit which are identified as being subject to
+               certification, including emission limitations, standards,
+               or work practices. That is, the provisions labeled herein
+               as "Compliance Certification" are not the only provisions
+               of this permit for which an annual certification is
+               required.
+
+               iii. Compliance certifications shall be submitted
+               annually. Certification reports are due 30 days after the
+               anniversary date of four consecutive calendar quarters.
+               The first report is due 30 days after the calendar quarter
+               that occurs just prior to the permit anniversary date,
+               unless another quarter has been acceptable by the
+               Department.
+
+
+                                  Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                      Page 12                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+               iv. All compliance certifications shall be submitted to
+               the Administrator (or his or her representative) as well
+               as two copies to the Department (one copy to the regional
+               air pollution control engineer (RAPCE) in the regional
+               office and one copy to the Bureau of Compliance Monitoring
+               and Enforcement (BCME) in the DEC central office). Please
+               send annual compliance certifications to Chief of the
+               Stationary Source Compliance Section, the Region 2 EPA
+               representative for the Administrator, at the following
+               address:
+
+               USEPA Region 2
+               Air Compliance Branch
+               290 Broadway
+               New York, NY 10007-1866
+
+               The address for the RAPCE is as follows:
+
+               270 Michigan Avenue
+               Buffalo, NY 14203-2999
+
+               The address for the BCME is as follows:
+
+               NYSDEC
+               Bureau of Compliance Monitoring
+               and Enforcement
+               625 Broadway
+               Albany, NY 12233-3258
+
+Monitoring Frequency: ANNUALLY
+Reporting Requirements: ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due on the same day each year
+
+Condition 7:       Compliance Certification
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 202-2.1
+
+Item 7.1:
+The Compliance Certification activity will be performed for the Facility.
+
+Item 7.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: RECORD KEEPING/MAINTENANCE PROCEDURES
+Monitoring Description:
+             Emission statements shall be submitted on or before April
+             15th each year for emissions of the previous calendar
+             year.
+
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 13                     FINAL
+Permit ID: 9-1464-00164/00117                    Facility DEC ID: 9146400164
+
+
+Monitoring Frequency: ANNUALLY
+Reporting Requirements: ANNUALLY (CALENDAR)
+Reports due by April 15th for previous calendar year
+
+Condition 8:         Recordkeeping requirements
+                     Effective between the dates of 11/27/2007 and 11/26/2012
+
+                     Applicable Federal Requirement:6 NYCRR 202-2.5
+
+Item 8.1:
+(a) The following records shall be maintained for at least five years:
+
+               (1)            a copy of each emission statement submitted to the department; and
+
+             (2)            records indicating how the information submitted in the emission
+statement was determined, including any calculations, data, measurements, and estimates used.
+
+(b)          These records shall be made available at the facility to the representatives of the
+department upon request during normal business hours.
+
+Condition 4-2:        Open Fires - Prohibitions
+                     Effective between the dates of 10/18/2011 and 11/26/2012
+
+                     Applicable Federal Requirement:6 NYCRR 215.2
+
+Item 4-2.1:
+Except as allowed by Title 6 NYCRR Section 215.3, no person shall burn, cause, suffer, allow
+or permit the burning of any materials in an open fire.
+
+Item 4-2.2
+Per Section 215.3, burning in an open fire, provided it is not contrary to other law or regulation,
+will be allowed as follows:
+(a) On-site burning in any town with a total population less than 20,000 of downed limbs and
+branches (including branches with attached leaves or needles) less than six inches in diameter
+and eight feet in length between May 15th and the following March 15th. For the purposes of
+this subdivision, the total population of a town shall include the population of any village or
+portion thereof located within the town. However, this subdivision shall not be construed to
+allow burning within any village.
+(b) Barbecue grills, maple sugar arches and similar outdoor cooking devices when actually used
+for cooking or processing food.
+(c) Small fires used for cooking and camp fires provided that only charcoal or untreated wood is
+used as fuel and the fire is not left unattended until extinguished.
+(d) On-site burning of agricultural wastes as part of a valid agricultural operation on contiguous
+agricultural lands larger than five acres actively devoted to agricultural or horticultural use,
+provided such waste is actually grown or generated on those lands and such waste is capable of
+being fully burned within a 24-hour period.
+(e) The use of liquid petroleum fueled smudge pots to prevent frost damage to crops.
+(f) Ceremonial or celebratory bonfires where not otherwise prohibited by law, provided that only
+untreated wood or other agricultural products are used as fuel and the fire is not left unattended
+until extinguished.
+(g) Small fires that are used to dispose of a flag or religious item, and small fires or other smoke
+producing process where not otherwise prohibited by law that are used in connection with a
+
+                                  Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                      Page 14                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+religious ceremony.
+(h) Burning on an emergency basis of explosive or other dangerous or contraband materials by
+police or other public safety organization.
+(i) Prescribed burns performed according to Part 194 of this Title.
+(j) Fire training, including firefighting, fire rescue, and fire/arson investigation training,
+performed under applicable rules and guidelines of the New York State Department of State's
+Office of Fire Prevention and Control. For fire training performed on acquired structures, the
+structures must be emptied and stripped of any material that is toxic, hazardous or likely to emit
+toxic smoke (such as asbestos, asphalt shingles and vinyl siding or other vinyl products) prior to
+burning and must be at least 300 feet from other occupied structures. No more than one structure
+per lot or within a 300 foot radius (whichever is bigger) may be burned in a training exercise.
+(k) Individual open fires as approved by the Director of the Division of Air Resources as may be
+required in response to an outbreak of a plant or animal disease upon request by the
+commissioner of the Department of Agriculture and Markets, or for the destruction of invasive
+plant and insect species.
+(l) Individual open fires that are otherwise authorized under the environmental conservation law,
+or by rule or regulation of the Department.
+
+
+
+   MANDATORY FEDERALLY ENFORCEABLE PERMIT CONDITIONS
+   SUBJECT TO ANNUAL CERTIFICATIONS ONLY IF APPLICABLE
+
+   The following federally enforceable permit conditions are mandatory for all
+   Title V permits and are subject to annual compliance certification
+   requirements only if effectuated during the reporting period.
+   [NOTE: The corresponding annual compliance certification for
+   those conditions not effectuated during the reporting period shall
+    be specified as "not applicable".]
+
+Condition 10:      Maintenance of Equipment
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 200.7
+
+Item 10.1:
+Any person who owns or operates an air contamination source which is equipped with an
+emission control device shall operate such device and keep it in a satisfactory state of
+maintenance and repair in accordance with ordinary and necessary practices, standards and
+procedures, inclusive of manufacturer's specifications, required to operate such device
+effectively.
+
+Condition 11:      Recycling and Salvage
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 201-1.7
+
+Item 11.1:
+Where practical, any person who owns or operates an air contamination source shall recycle or
+salvage air contaminants collected in an air cleaning device according to the requirements of the
+ECL.
+
+
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 15                     FINAL
+Permit ID: 9-1464-00164/00117                    Facility DEC ID: 9146400164
+
+
+Condition 12:    Prohibition of Reintroduction of Collected Contaminants to
+            the air
+                Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-1.8
+
+Item 12.1:
+No person shall unnecessarily remove, handle or cause to be handled, collected air contaminants
+from an air cleaning device for recycling, salvage or disposal in a manner that would reintroduce
+them to the outdoor atmosphere.
+
+Condition 13:       Exempt Sources - Proof of Eligibility
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-3.2 (a)
+
+Item 13.1:
+The owner and/or operator of an emission source or unit that is eligible to be exempt may be
+required to certify that it operates within the specific criteria described in this Subpart. The
+owner or operator of any such emission source must maintain all required records on-site for a
+period of five years and make them available to representatives of the department upon request.
+Department representatives must be granted access to any facility which contains emission
+sources or units subject to this Subpart, during normal operating hours, for the purpose of
+determining compliance with this and any other State and Federal air pollution control
+requirements, regulations, or law.
+
+Condition 14:       Trivial Sources - Proof of Eligibility
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-3.3 (a)
+
+Item 14.1:
+The owner and/or operator of an emission source or unit that is listed as being trivial in this Part
+may be required to certify that it operates within the specific criteria described in this Subpart.
+The owner or operator of any such emission source must maintain all required records on-site for
+a period of five years and make them available to representatives of the department upon
+request. Department representatives must be granted access to any facility which contains
+emission sources or units subject to this Subpart, during normal operating hours, for the purpose
+of determining compliance with this and any other State and Federal air pollution control
+requirements, regulations, or law.
+
+Condition 15:       Standard Requirement - Provide Information
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-6.5 (a) (4)
+
+Item 15.1:
+The owner and/or operator shall furnish to the department, within a reasonable time, any
+information that the department may request in writing to determine whether cause exists for
+modifying, revoking and reissuing, or terminating the permit or to determine compliance with
+the permit. Upon request, the permittee shall also furnish to the department copies of records
+required to be kept by the permit or, for information claimed to be confidential, the permittee
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 16                     FINAL
+Permit ID: 9-1464-00164/00117                    Facility DEC ID: 9146400164
+
+
+may furnish such records directly to the administrator along with a claim of confidentiality, if the
+administrator initiated the request for information or otherwise has need of it.
+
+Condition 16:       General Condition - Right to Inspect
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-6.5 (a) (8)
+
+Item 16.1:
+The department or an authorized representative shall be allowed upon presentation of credentials
+ and other documents as may be required by law to:
+
+(i) enter upon the permittee's premises where a facility subject to the permitting requirements of
+this Subpart is located or emissions-related activity is conducted, or where records must be kept
+under the conditions of the permit;
+
+(ii) have access to and copy, at reasonable times, any records that must be kept under the
+conditions of the permit;
+
+(iii) inspect at reasonable times any emission sources, equipment (including monitoring and air
+pollution control equipment), practices, and operations regulated or required under the permit;
+and
+
+(iv) sample or monitor at reasonable times substances or parameters for the purpose of assuring
+compliance with the permit or applicable requirements.
+
+Condition 17:       Standard Requirements - Progress Reports
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-6.5 (d) (5)
+
+Item 17.1:
+Progress reports consistent with an applicable schedule of compliance are to be submitted at
+least semiannually, or at a more frequent period if specified in the applicable requirement or by
+the department. Such progress reports shall contain the following:
+
+(i) dates for achieving the activities, milestones, or compliance required in the schedule of
+compliance, and dates when such activities, milestones or compliance were achieved; and
+
+(ii) an explanation of why any dates in the schedule of compliance were not or will not be met,
+and any preventive or corrective measures adopted.
+
+Condition 18:       Off Permit Changes
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 201-6.5 (f) (6)
+
+Item 18.1:
+No permit revision will be required for operating changes that contravene an express permit
+term, provided that such changes would not violate applicable requirements as defined under this
+Part or contravene federally enforceable monitoring (including test methods), recordkeeping,
+reporting, or compliance certification permit terms and conditions. Such changes may be made
+
+                                  Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                      Page 17                     FINAL
+Permit ID: 9-1464-00164/00117                    Facility DEC ID: 9146400164
+
+
+without requiring a permit revision, if the changes are not modifications under any provision of
+title I of the act and the changes do not exceed the emissions allowable under the permit
+(whether expressed therein as a rate of emissions or in terms of total emissions) provided that the
+facility provides the administrator and the department with written notification as required below
+in advance of the proposed changes within a minimum of seven days. The facility owner or
+operator, and the department shall attach each such notice to their copy of the relevant permit.
+
+(i) For each such change, the written notification required above shall include a brief description
+of the change within the permitted facility, the date on which the change will occur, any change
+in emissions, and any permit term or condition that is no longer applicable as a result of the
+change.
+
+(ii) The permit shield described in section 6 NYCRR 201-6.6 shall not apply to any change
+made pursuant to this paragraph.
+
+Condition 4-3:      Required Emissions Tests
+                   Effective between the dates of 10/18/2011 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR 202-1.1
+
+                   Replaces Condition(s) 19
+Item 4-3.1:
+For the purpose of ascertaining compliance or non-compliance with any air pollution control
+code, rule or regulation, the commissioner may require the person who owns such air
+contamination source to submit an acceptable report of measured emissions within a stated time.
+
+
+Condition 21:       Accidental release provisions.
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:40 CFR Part 68
+
+Item 21.1:
+If a chemical is listed in Tables 1,2,3 or 4 of 40 CFR §68.130 is present in a process in quantities
+greater than the threshold quantity listed in Tables 1,2,3 or 4, the following requirements will
+apply:
+
+a) The owner or operator shall comply with the provisions of 40 CFR Part 68 and;
+
+b) The owner or operator shall submit at the time of permit issuance (if not previously
+submitted) one of the following, if such quantities are present:
+
+1) A compliance schedule for meeting the requirements of 40 CFR Part 68 by the date provided
+in 40 CFR §68.10(a) or,
+
+2) A certification statement that the source is in compliance with all requirements of 40 CFR
+Part 68, including the registration and submission of the Risk Management Plan. Information
+should be submitted to:
+
+Risk Management Plan Reporting Center
+C/O CSC
+8400 Corporate Dr
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 18                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+Carrollton, Md. 20785
+
+Condition 22:      Recycling and Emissions Reduction
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:40CFR 82, Subpart F
+
+Item 22.1:
+The permittee shall comply with all applicable provisions of 40 CFR Part 82.
+
+
+
+              The following conditions are subject to annual compliance certification
+              requirements for Title V permits only.
+
+
+
+Condition 23:      Emission Unit Definition
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR Subpart 201-6
+
+Item 23.1(From Mod 4):
+The facility is authorized to perform regulated processes under this permit for:
+    Emission Unit: U-MAKOT
+    Emission Unit Description:
+                Existing sponge making consists of viscose/salt
+                production and block making. This emission unit consists
+                of the sources associated with sponge making that do not
+                vent to the main stack (NCS01).
+
+              Building(s): 1-20
+
+Item 23.2(From Mod 4):
+The facility is authorized to perform regulated processes under this permit for:
+    Emission Unit: U-NCS01
+    Emission Unit Description:
+                Sponge making sources associated with viscose production,
+                material weight out and transfer, sponge mixing, sponge
+                cooking, wash tables, continuous salt processing, and
+                reclamation operation that vent to the main stack. It also
+                includes by pass emissions from the mother liquor
+                treatment operation, emission unit USEPAR.
+
+              Building(s): NE 1-72
+
+Item 23.3(From Mod 4):
+The facility is authorized to perform regulated processes under this permit for:
+    Emission Unit: U-SEPAR
+    Emission Unit Description:
+                The process technology converts contaminants in the salt
+                reclamation process by oxidation to sulfate and carbon
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 19                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+              dioxide.
+
+              Building(s): 1-72
+
+Item 23.4(From Mod 0):
+The facility is authorized to perform regulated processes under this permit for:
+    Emission Unit: U-BOILS
+    Emission Unit Description:
+                Two new boilers supply steam for plant use. The boilers
+                are rated for: 60.4 mmBTU/hr when burning No. 2 oil and
+                63.2 mmBTU/hr when burning natural gas.
+
+              Building(s): 1-72
+
+Item 23.5(From Mod 0):
+The facility is authorized to perform regulated processes under this permit for:
+    Emission Unit: U-CONVT
+    Emission Unit Description:
+                The emission unit consists of coaters used to apply
+                adhesive. The coater also utilizes a heating unit.
+
+              Building(s): 1-34
+
+Item 23.6(From Mod 0):
+The facility is authorized to perform regulated processes under this permit for:
+    Emission Unit: U-TANKS
+    Emission Unit Description:
+                This emission unit includes the non-exempt storage tanks,
+                exempt carbon disulfide storage tank, and the water
+                blanket used in carbon disulfide tank secondary
+                containment dike.
+
+              Building(s): TANKS
+
+Condition 24:      Non Applicable requirements
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 201-6.5 (g)
+
+Item 24.1:
+This section contains a summary of those requirements that have been specifically identified as
+being not applicable to this facility and/or emission units, emission points, processes and/or
+emission sources within this facility. The summary also includes a justification for classifying
+any such requirements as non-applicable.
+              40 CFR Part 60, Subpart Kb
+              Emission Unit: UTANKS Emission Point: CS20D
+              Reason:        This tank is designed to operate in excess of 204.9 kPa
+              and will not have emissions to the atmosphere. The
+              requirements 40 cfr 60, subpart Kb, do not apply per the
+              exemption listed in 40 cfr 60.110b(d)(2).
+
+
+
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 20                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+Condition 25:       Facility Permissible Emissions
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR Subpart 201-7
+
+Item 25.1:
+The sum of emissions from the emission units specified in this permit shall not equal or exceed
+the following
+Potential To Emit (PTE) rate for each regulated contaminant:
+
+
+              CAS No: 000075-15-0          (From Mod 4)                  PTE:    675,800 pounds
+per year
+              Name: CARBON DISULFIDE
+
+              CAS No: 007446-09-5          (From Mod 4)                  PTE:    188,480 pounds
+per year
+              Name: SULFUR DIOXIDE
+
+              CAS No: 007664-93-9          (From Mod 4)                  PTE:    32,000 pounds
+per year
+              Name: SULFURIC ACID
+
+              CAS No: 007783-06-4          (From Mod 4)                  PTE:    66,240 pounds
+per year
+              Name: HYDROGEN SULFIDE
+
+Condition 4-4:      Capping Monitoring Condition
+                   Effective between the dates of 10/18/2011 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR Subpart 201-7
+
+                   Replaces Condition(s) 26
+Item 4-4.1:
+Under the authority of 6 NYCRR Part 201-7, this condition contains an emission cap for the
+purpose of limiting emissions from the facility, emission unit or process to avoid being subject to
+the following applicable requirement(s) that the facility, emission unit or process would
+otherwise be subject to:
+
+              40 CFR 52.21
+
+Item 4-4.2:
+Operation of this facility shall take place in accordance with the approved criteria, emission
+limits, terms, conditions and standards in this permit.
+
+Item 4-4.3:
+The owner or operator of the permitted facility must maintain all required records on-site for a
+period of five years and make them available to representatives of the Department upon request.
+Department representatives must be granted access to any facility regulated by this Subpart,
+during normal operating hours, for the purpose of determining compliance with this and any
+other state and federal air pollution control requirements, regulations or law.
+
+
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 21                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+Item 4-4.4:
+On an annual basis, unless otherwise specified below, beginning one year after the granting of an
+emissions cap, the responsible official shall provide a certification to the Department that the
+facility has operated all emission units within the limits imposed by the emission cap. This
+certification shall include a brief summary of the emissions subject to the cap for that time
+period and a comparison to the threshold levels that would require compliance with an
+applicable requirement.
+
+Item 4-4.5:
+The emission of pollutants that exceed the applicability thresholds for an applicable requirement,
+for which the facility has obtained an emissions cap, constitutes a violation of Part 201 and of
+the Act.
+
+Item 4-4.6:
+The Compliance Certification activity will be performed for the Facility.
+
+     Regulated Contaminant(s):
+             CAS No: 007446-09-5           SULFUR DIOXIDE
+
+Item 4-4.7:
+Compliance Certification shall include the following monitoring:
+
+             Capping: Yes
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                 DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             Annual facility emissions of SO2 emissions are limited to
+             94.24 tpy to keep the net emission increase in permit REN
+             0, MOD 4 below the deminimis level of 40 tpy in the
+             specified regulation. This is based on 1997 and 1998
+             average SO2 emission plus a deminimis= (54.34+39.9=94.24).
+             Records of fuel usage and sulfur content will be kept for
+             boilers associated with emission unit BOILS and SO2
+             emissions calculated using the following AP-42 emission
+             factors:
+
+              Combustion of Natural Gas: 0.6 lbs SO2/million cubic feet
+              of gas burned
+              Combustion of Distillate Oil: 142(S) lbs SO2/1000 gallons
+              of oil burned, where S = the sulfur content of oil in %
+              by weight.
+              Combustion of Residual (No. 6) Oil: 157(S) lbs
+              SO2/1000gallons of oil burned, where S = the sulfur
+              content of oil in % by weight.
+
+              The emission factor for calculating sulfur dioxide
+              emissions from Emission Unit U-NCS01 and Emission unit
+              U-SEPAR, derived from annual RATA test results from 2005
+              to 2009, are as follows:
+
+              EP NCS01: 0.137 lb SO2/ equivalent block/ day
+              EP SEPAR: 0.126 lb SO2/equivalent block/day
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 22                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+
+              The total SO2 emissions from the facility must be less
+              than 94.24 tons per year based on a 12- month rolling
+              total.
+
+              Note: The original tonnage was changed in REN 1 MOD 0
+              because of an error made previously in estimating
+              emissions from the boilers.
+
+Manufacturer Name/Model Number: Rosemount 396R pH Sensor with Rosemount 581
+Transmitter
+Parameter Monitored: SULFUR DIOXIDE
+Upper Permit Limit: 94.24 tons per year
+Reference Test Method: EPA approved methods
+Monitoring Frequency: AS REQUIRED - SEE PERMIT MONITORING
+                    DESCRIPTION
+Averaging Method: ANNUAL MAXIMUM ROLLED MONTHLY
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2012.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 27:       Capping Monitoring Condition
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR Subpart 201-7
+
+Item 27.1:
+Under the authority of 6 NYCRR Part 201-7, this condition contains an emission cap for the
+purpose of limiting emissions from the facility, emission unit or process to avoid being subject to
+the following applicable requirement(s) that the facility, emission unit or process would
+otherwise be subject to:
+
+              40 CFR 52.21
+
+Item 27.2:
+Operation of this facility shall take place in accordance with the approved criteria, emission
+limits, terms, conditions and standards in this permit.
+
+Item 27.3:
+The owner or operator of the permitted facility must maintain all required records on-site for a
+period of five years and make them available to representatives of the Department upon request.
+Department representatives must be granted access to any facility regulated by this Subpart,
+during normal operating hours, for the purpose of determining compliance with this and any
+other state and federal air pollution control requirements, regulations or law.
+
+Item 27.4:
+On an annual basis, unless otherwise specified below, beginning one year after the granting of an
+emissions cap, the responsible official shall provide a certification to the Department that the
+facility has operated all emission units within the limits imposed by the emission cap. This
+certification shall include a brief summary of the emissions subject to the cap for that time
+period and a comparison to the threshold levels that would require compliance with an
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 23                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+applicable requirement.
+
+Item 27.5:
+The emission of pollutants that exceed the applicability thresholds for an applicable requirement,
+for which the facility has obtained an emissions cap, constitutes a violation of Part 201 and of
+the Act.
+
+Item 27.6:
+The Compliance Certification activity will be performed for the Facility.
+
+     Regulated Contaminant(s):
+             CAS No: 007664-93-9           SULFURIC ACID
+
+Item 27.7:
+Compliance Certification shall include the following monitoring:
+
+             Capping: Yes
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                  DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             Annual Sulfuric acid mist emissions from the facility are
+             limited to 16.0 tpy, based on a 12 month rolling average,
+             to keep the net emission increase from this modification
+             below the 40 cfr part 52 significance level of 7 tpy.
+             (1997/98 actual emissions plus deminimus= (9.809+8.382)/2
+             +6.9=16.0). Oil usage and sulfur content records will be
+             kept for emission unit BOILS and emissions based on the
+             following emission factors. 2(s) lbs of sulfuric acid mist
+             per 1000 gallons of fuel oil burned. Where s= weight %
+             sulfur in fuel.
+             The emission factor for calculating Wet Air Oxidation
+             process emissions (Emission Unit SEPAR) shall be based on
+             the most recent stack test.
+
+Parameter Monitored: SULFURIC ACID
+Upper Permit Limit: 16.0 tons per year
+Reference Test Method: epa appd methods
+Monitoring Frequency: AS REQUIRED - SEE PERMIT MONITORING
+                    DESCRIPTION
+Averaging Method: ANNUAL MAXIMUM ROLLED MONTHLY
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 28:      Capping Monitoring Condition
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR Subpart 201-7
+
+Item 28.1:
+Under the authority of 6 NYCRR Part 201-7, this condition contains an emission cap for the
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 24                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+purpose of limiting emissions from the facility, emission unit or process to avoid being subject to
+the following applicable requirement(s) that the facility, emission unit or process would
+otherwise be subject to:
+
+              40 CFR 52.21
+
+Item 28.2:
+Operation of this facility shall take place in accordance with the approved criteria, emission
+limits, terms, conditions and standards in this permit.
+
+Item 28.3:
+The owner or operator of the permitted facility must maintain all required records on-site for a
+period of five years and make them available to representatives of the Department upon request.
+Department representatives must be granted access to any facility regulated by this Subpart,
+during normal operating hours, for the purpose of determining compliance with this and any
+other state and federal air pollution control requirements, regulations or law.
+
+Item 28.4:
+On an annual basis, unless otherwise specified below, beginning one year after the granting of an
+emissions cap, the responsible official shall provide a certification to the Department that the
+facility has operated all emission units within the limits imposed by the emission cap. This
+certification shall include a brief summary of the emissions subject to the cap for that time
+period and a comparison to the threshold levels that would require compliance with an
+applicable requirement.
+
+Item 28.5:
+The emission of pollutants that exceed the applicability thresholds for an applicable requirement,
+for which the facility has obtained an emissions cap, constitutes a violation of Part 201 and of
+the Act.
+
+Item 28.6:
+The Compliance Certification activity will be performed for the Facility.
+
+     Regulated Contaminant(s):
+             CAS No: 007783-06-4           HYDROGEN SULFIDE
+
+Item 28.7:
+Compliance Certification shall include the following monitoring:
+
+             Capping: Yes
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                 DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             This condition will cap the increased hydrogen sulfide
+             (H2S) emissions at the facility below the PSD deminimis of
+             10 tpy. This review was performed under "mod 4". H2S
+             emissions during 1997 and 1998=23.33 tpy+9.9 tpy cap=33.12
+             tpy permissible.
+
+              3M has made an earnest effort to operate an H2S monitor as
+              originally required in the Title V permit, mod 0 version,
+              condition # 53 under 40 CFR 52.21. Difficulties with other
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 25                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+              sulfur compound (i.e.CS2) cause analyzer interference have
+              made it technologically infeasible to obtain accurate
+              emission data. The CEM for H2S is not specifically
+              required by regulation and therefore can be removed and
+              compliance demonstrated by other means. The emissions have
+              been tested on a number of occasions and an emission
+              factor established from these tests will be used to
+              determine compliance with the 33.12 tpy cap based on a
+              rolling 12 month average. H2S emissions from the main
+              stack, NCS01, were measured at 0.01 pounds per hour during
+              sampling in January of 2003. H2S from sources venting to
+              the SRU are removed in the preadsorber using a potassium
+              iodide impregnated carbon. Maintenance of this preadsorber
+              and monitoring of breakthrough will used to insure
+              compliance with the H2S limits.
+
+              The significant sources of H2S emissions are from Emission
+              unit SEPAR, NCS01 and other sources venting to the SRU.
+              The Wet Air Oxidation (WAO) process emissions are
+              controlled by a thermal oxidizer. The emission factor for
+              calculating WAO emissions shall be based on the most
+              recent stack test.
+
+
+
+Parameter Monitored: HYDROGEN SULFIDE
+Upper Permit Limit: 33.12 tons per year
+Reference Test Method: EPA appd methods
+Monitoring Frequency: AS REQUIRED - SEE PERMIT MONITORING
+                    DESCRIPTION
+Averaging Method: ANNUAL MAXIMUM ROLLED MONTHLY
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 29:       Capping Monitoring Condition
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:6 NYCRR Subpart 201-7
+
+Item 29.1:
+Under the authority of 6 NYCRR Part 201-7, this condition contains an emission cap for the
+purpose of limiting emissions from the facility, emission unit or process to avoid being subject to
+the following applicable requirement(s) that the facility, emission unit or process would
+otherwise be subject to:
+
+              6 NYCRR Subpart 231-2
+
+Item 29.2:
+Operation of this facility shall take place in accordance with the approved criteria, emission
+limits, terms, conditions and standards in this permit.
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 26                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+
+Item 29.3:
+The owner or operator of the permitted facility must maintain all required records on-site for a
+period of five years and make them available to representatives of the Department upon request.
+Department representatives must be granted access to any facility regulated by this Subpart,
+during normal operating hours, for the purpose of determining compliance with this and any
+other state and federal air pollution control requirements, regulations or law.
+
+Item 29.4:
+On an annual basis, unless otherwise specified below, beginning one year after the granting of an
+emissions cap, the responsible official shall provide a certification to the Department that the
+facility has operated all emission units within the limits imposed by the emission cap. This
+certification shall include a brief summary of the emissions subject to the cap for that time
+period and a comparison to the threshold levels that would require compliance with an
+applicable requirement.
+
+Item 29.5:
+The emission of pollutants that exceed the applicability thresholds for an applicable requirement,
+for which the facility has obtained an emissions cap, constitutes a violation of Part 201 and of
+the Act.
+
+Item 29.6:
+The Compliance Certification activity will be performed for the Facility.
+
+     Regulated Contaminant(s):
+             CAS No: 000075-15-0           CARBON DISULFIDE
+
+Item 29.7:
+Compliance Certification shall include the following monitoring:
+
+             Capping: Yes
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                  DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             The facility has a "cap" for Carbon Disulfide emissions
+             of 337.9 tpy. This limit was established under 6 NYCRR
+             part 231-2 for the addition of the continuous sponge line,
+             permit issued 1/10/2000. Emission point NCS01 vents
+             emissions from the solvent recovery unit,USEPAR and
+             several uncontrolled sources which are counted against
+             this "cap". The 337.9 tpy cap was based on 1997 and 1998
+             VOC average emission rate of 358.6 tpy plus 39.9 tpy
+             (deminimus) =398.5tpy multiplied by the 94.15% CS2 factor
+             to get 337.9 tpy CS2 allowable. (CS2 being the surrogate
+             contaminant monitored by CEM). Emissions from NCS01 are
+             monitored by CEM. The emission factor for calculating wet
+             air oxidation emissions shall be based on the emission
+             factor derived from the latest stack test.
+
+Parameter Monitored: CARBON DISULFIDE
+Upper Permit Limit: 337.9 tons per year
+Reference Test Method: epa appd methods
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 27                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+Monitoring Frequency: CONTINUOUS
+Averaging Method: ANNUAL MAXIMUM ROLLED MONTHLY
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 4-5:     Air pollution prohibited
+                  Effective between the dates of 10/18/2011 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 211.1
+
+Item 4-5.1:
+No person shall cause or allow emissions of air contaminants to the outdoor atmosphere of such
+quantity, characteristic or duration which are injurious to human, plant or animal life or to
+property, or which unreasonably interfere with the comfortable enjoyment of life or property.
+Notwithstanding the existence of specific air quality standards or emission limits, this
+prohibition applies, but is not limited to, any particulate, fume, gas, mist, odor, smoke, vapor,
+pollen, toxic or deleterious emission, either alone or in combination with others.
+
+
+Condition 30:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.6 (a)
+
+Item 30.1:
+The Compliance Certification activity will be performed for the Facility.
+
+Item 30.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: RECORD KEEPING/MAINTENANCE PROCEDURES
+Monitoring Description:
+             No person shall cause or allow emissions having an
+             average opacity during any six consecutive minutes of 20
+             percent or greater from any process emission source,
+             except only the emission of uncombined water. The
+             Department reserves the right to perform or require the
+             performance of a Method 9 opacity evaluation at any time
+             during facility operation.
+
+              The permittee will conduct observations of visible
+              emissions from the emission unit, process, etc. to which
+              this condition applies at the monitoring frequency stated
+              below. The permittee will immediately investigate any
+              instance where there is cause to believe that visible
+              emissions above those that are normal and in compliance
+              are occurring or have occurred from a process source.
+
+
+              If visible emissions above those that are normal (this
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 28                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+              may be zero percent opacity for many or all emission
+              sources) and in compliance with section 212.6(a) are
+              detected, the permittee shall determine the cause, make
+              the necessary correction, and verify that the excess
+              visible emissions problem has been corrected.
+
+              If visible emissions above those that are normal and in
+              compliance continue to be present after corrections are
+              made, the permittee will immediately notify The Department
+              and conduct a Method 9 assessment within 24 hours to
+              determine the degree of opacity.
+
+              Records of these observations, investigations and
+              corrective actions will be kept on-site in a format
+              acceptable to the Department and the semiannual progress
+              report and annual compliance certifications required of
+              all permittees subject to Title V must include a summary
+              of theses instances.
+
+Monitoring Frequency: WEEKLY
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 31:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:40CFR 63.5505(a), Subpart UUUU
+
+Item 31.1:
+The Compliance Certification activity will be performed for the Facility.
+
+Item 31.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                   DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             i. reduce total uncontrolled sulfide emissions (reported
+             as carbon disulfide) by at least 75% based on a 6-month
+             rolling average;
+             ii. for each vent stream that you control using a control
+             device, route the vent stream through a closed-vent system
+             to the control device; and
+             iii. comply with the work practice standard for
+             closed-vent systems which requires annual inspections,
+             repair leaks, and maintain records as specified in 40 cfr
+             63.140
+
+              Requirements for determining compliance:
+
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 29                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+              1) Calculate monthly, the average controlled total sulfide
+              emissions reduction;
+              (2) Maintain a record of the average operating parameter
+              values used over the month-long compliance demonstration
+              during which the average uncontrolled total sulfide
+              emissions were reduced by at least 75%;
+              (3) Prepare a material balance that includes the pertinent
+              data used to determine and the percent reduction of total
+              sulfide emissions; and
+              (4) Comply with the initial compliance requirements for
+              closed-vent systems.
+
+Parameter Monitored: CARBON DISULFIDE
+Lower Permit Limit: 75 percent reduction
+Reference Test Method: Approved EPA methods
+Monitoring Frequency: CONTINUOUS
+Averaging Method: 180-DAY AVERAGE
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 32:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:40CFR 63.5505(a), Subpart UUUU
+
+Item 32.1:
+The Compliance Certification activity will be performed for the facility:
+The Compliance Certification applies to:
+
+     Emission Unit: U-NCS01                Emission Point: NCS01
+
+     Emission Unit: U-SEPAR                Emission Point: SEPAR
+
+Item 32.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: RECORD KEEPING/MAINTENANCE PROCEDURES
+Monitoring Description:
+             40 cfr 63.5505a, table 1, item 11 describes requirements
+             for a closed vent system containing a bypass line that
+             could divert a vent stream away from a control device,
+             except for equipment needed for safety purposes. The
+             requirement is installation of a flow indicator or secure
+             the bypass line valve with a car seal or lock and key.
+             This facility has been given approval by EPA to operate an
+             alternative monitoring procedure to demonstrate compliance
+             with this section of the rule. This following flow
+             monitoring description is a listed compliance option for
+             by pass flow monitoring in other promulgated NESHAP
+             subparts.
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 30                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+
+              The facility will use flow control position indicators on
+              the existing solvent recovery unit by pass valve and the
+              two by pass valves on the wet air oxidation process
+              regenerative thermal oxidizers. The facility will operate
+              and calibrate the flow control position indicators
+              according to the manufacturers specifications. The flow
+              control position indicator will provide a record
+              indicating whether the exhaust stream is directed to the
+              control device or is diverted from the control device. The
+              time and flow control position will be recorded
+              electronically at least once per hour as well as every
+              time the flow direction is changed.
+
+              Department notification of equipment bypass should be in
+              accordance with the requirements detailed under 6 NYCRR
+              part 201-1.4. By pass incidents will be summarized in the
+              semi annual reports.
+
+Monitoring Frequency: AS REQUIRED - SEE PERMIT MONITORING
+                 DESCRIPTION
+Reporting Requirements: AS REQUIRED - SEE MONITORING DESCRIPTION
+
+Condition 33:      Startup, shutdown and malfunction plan (SSM).
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:40CFR 63.5515(c), Subpart UUUU
+
+Item 33.1:
+ (a) You must be in compliance with the emission limits, operating limits, and work practice
+standards in this subpart at all times, except during periods of startup, shutdown, and
+malfunction.
+
+(b) You must always operate and maintain your affected source, including air pollution control
+and monitoring equipment, according to the provisions in §63.6(e)(1)(i).
+
+(c) You must develop a written startup, shutdown, and malfunction (SSM) plan according to the
+provisions in §63.6(e)(3).
+
+Condition 34:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:40CFR 63.5545(a), Subpart UUUU
+
+Item 34.1:
+The Compliance Certification activity will be performed for the facility:
+The Compliance Certification applies to:
+
+     Emission Unit: U-NCS01
+     Process: SRU
+
+     Emission Unit: U-SEPAR
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 31                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+     Process: SEP
+
+Item 34.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: RECORD KEEPING/MAINTENANCE PROCEDURES
+Monitoring Description:
+             a) For each CMS required in this section, you must
+             develop and make available for inspection by the
+             permitting authority, upon request, a site-specific
+             monitoring plan that addresses the provisions in
+             paragraphs (a)(1) through (3) of this section.
+
+              (1) Installation of the CMS sampling probe or other
+              interface at a measurement location relative to each
+              affected process unit such that the measurement is
+              representative of control of the exhaust emissions (e.g.,
+              on or downstream of the last control device);
+
+              (2) Performance and equipment specifications for the
+              sample interface, the pollutant concentration or
+              parametric signal analyzer, and the data collection and
+              reduction system; and
+
+              (3) Performance evaluation procedures and acceptance
+              criteria (e.g., calibrations).
+
+              (b) In your site-specific monitoring plan, you must also
+              address the provisions in paragraphs (b)(1) through (3) of
+              this section.
+
+              (1) Ongoing operation and maintenance procedures in
+              accordance with the general requirements of §§63.8(c)(1),
+              (3), (4)(ii) and 63.5580(c)(6);
+
+              (2) Ongoing data quality assurance procedures in
+              accordance with the general requirements of §63.8(d)(2);
+              and
+
+              (3) Ongoing recordkeeping and reporting procedures in
+              accordance with the general requirements of §§63.10(c),
+              (e)(1), (e)(2)(i) and 63.5585.
+
+              (c) You must conduct a performance evaluation of each CMS
+              in accordance with your site-specific monitoring
+              plan.
+
+              (d) You must operate and maintain the CMS in continuous
+              operation according to the site-specific monitoring
+              plan.
+
+              (e) For each continuous emissions monitoring system
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 32                     FINAL
+Permit ID: 9-1464-00164/00117                 Facility DEC ID: 9146400164
+
+
+            (CEMS), you must meet the requirements in paragraphs
+            (e)(1) through (6) of this section.
+
+            (1) Each CEMS must be installed, operated, and maintained
+            according to the applicable performance specification (PS)
+            listed in paragraphs (e)(1)(i) through (iv) of this
+            section:
+
+            (2) You must conduct a performance evaluation of each CEMS
+            according to the requirements in §63.8 and according to
+            the applicable performance specification listed in
+            paragraphs (e)(1)(i) through (iv) of this section.
+
+            (3) As specified in §63.8(c)(4)(ii), each CEMS must
+            complete a minimum of one cycle of operation (sampling,
+            analyzing, and data recording) for each successive
+            15-minute period.
+
+            (4) The CEMS data must be reduced to operating data
+            averages computed using valid data from at least 75
+            percent of the hours during the averaging period. To have
+            a valid hour of data, you must have four or more data
+            points equally spaced over the 1-hour period (or at least
+            two data points during an hour when calibration, quality
+            assurance, or maintenance activities are being performed),
+            except as specified in paragraph (e)(5) of this
+            section.
+
+            (5) The CEMS data taken during periods in which the
+            control devices are not functioning in controlling
+            emissions, as indicated by periods of no flow for all or a
+            portion of an affected source, must not be considered in
+            the averages.
+
+            (6) Determine the daily average of all recorded readings
+            for each operating day during the semiannual reporting
+            period described in Table 8 to this subpart.
+
+            (f) For each continuous parameter monitoring system
+            (CPMS), you must meet the requirements in paragraphs
+            (f)(1) through (9) of this section.
+
+            (1) Satisfy all requirements of performance specifications
+            for CPMS upon promulgation of such performance
+            specifications.
+
+            (2) Satisfy all requirements of quality assurance (QA)
+            procedures for CPMS upon promulgation of such QA
+            procedures.
+
+            (3) The CPMS must complete a minimum of one cycle of
+            operation for each successive 15-minute period.
+
+                               Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                   Page 33                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+
+              (4) To calculate a valid hourly average, there must be at
+              least four equally spaced values for that hour, excluding
+              data collected during the periods described in paragraph
+              (f)(6) of this section.
+
+              (5) Have valid hourly data for at least 75 percent of the
+              hours during the averaging period.
+
+              (6) The CPMS data taken during periods in which the
+              control devices are not functioning in controlling
+              emissions, as indicated by periods of no flow for all or a
+              portion of an affected source, must not be considered in
+              the averages.
+
+              (7) Calculate a daily average using all of the valid
+              hourly averages for each operating day during the
+              semiannual reporting period.
+
+              (8) Record the results of each inspection, calibration,
+              and validation check.
+
+              (9) Except for redundant sensors, any device that is used
+              to conduct an initial validation or accuracy audit of a
+              CPMS must meet the accuracy requirements specified in
+              paragraphs (f)(9)(i) and (ii) of this section.
+
+              (i) The device must have an accuracy that is traceable to
+              National Institute of Standards and Technology (NIST)
+              standards.
+
+              (ii) The device must be at least three times as accurate
+              as the required accuracy for the CPMS.
+
+
+
+
+Monitoring Frequency: AS REQUIRED - SEE PERMIT MONITORING
+                    DESCRIPTION
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 35:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:40CFR 63.5580(a), Subpart UUUU
+
+Item 35.1:
+The Compliance Certification activity will be performed for the Facility.
+
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 34                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+Item 35.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: RECORD KEEPING/MAINTENANCE PROCEDURES
+Monitoring Description:
+             You must submit semiannually a report as specified in 40
+             cfr 63.5580(b), which addresses all of the items in table
+             8.
+             You must keep records as specified in Table 9 that apply
+             to the facility.
+             Table 10 specifies the general provisions in 40 cfr 63.1
+             through 63.15 that apply to the facility.
+
+Monitoring Frequency: AS REQUIRED - SEE PERMIT MONITORING
+                    DESCRIPTION
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+
+
+                            **** Emission Unit Level ****
+
+Condition 36:      Emission Point Definition By Emission Unit
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR Subpart 201-6
+
+Item 36.1(From Mod 4):
+The following emission points are included in this permit for the cited Emission Unit:
+
+     Emission Unit:    U-MAKOT
+
+     Emission Point: MC001
+            Height (ft.): 34      Diameter (in.): 24
+            NYTMN (km.): 4765.557 NYTME (km.): 180.461                 Building: 1-20
+
+     Emission Point: MC002
+            Height (ft.): 34      Diameter (in.): 24
+            NYTMN (km.): 4765.557 NYTME (km.): 180.461                 Building: 1-20
+
+Item 36.2(From Mod 4):
+The following emission points are included in this permit for the cited Emission Unit:
+
+     Emission Unit:    U-SEPAR
+
+     Emission Point: SEPAR
+            Height (ft.): 50      Diameter (in.): 20
+            NYTMN (km.): 4765.633 NYTME (km.): 180.402                 Building: 1-72
+
+Item 36.3(From Mod 0):
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 35                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+The following emission points are included in this permit for the cited Emission Unit:
+
+     Emission Unit:    U-BOILS
+
+     Emission Point: BOIL1
+            Height (ft.): 47              Diameter (in.): 36
+            NYTMN (km.): 4765.56          NYTME (km.): 180.47          Building: 1-72
+
+     Emission Point: BOIL2
+            Height (ft.): 47              Diameter (in.): 36
+            NYTMN (km.): 4765.56          NYTME (km.): 180.47          Building: 1-72
+
+Item 36.4(From Mod 0):
+The following emission points are included in this permit for the cited Emission Unit:
+
+     Emission Unit:    U-CONVT
+
+     Emission Point: BND00
+            Height (ft.): 28      Diameter (in.): 16
+            NYTMN (km.): 4765.594 NYTME (km.): 180.354                 Building: 1-34
+
+Item 36.5(From Mod 0):
+The following emission points are included in this permit for the cited Emission Unit:
+
+     Emission Unit:    U-MAKOT
+
+     Emission Point: AGERM
+            Height (ft.): 30      Diameter (in.): 24
+            NYTMN (km.): 4765.639 NYTME (km.): 180.413                 Building: 1-04
+
+     Emission Point: B1000
+            Height (ft.): 30      Diameter (in.): 24
+            NYTMN (km.): 4765.557 NYTME (km.): 180.461                 Building: 1-50
+
+     Emission Point: B3000
+            Height (ft.): 30      Diameter (in.): 24
+            NYTMN (km.): 4765.636 NYTME (km.): 180.414                 Building: 1-50
+
+     Emission Point: BKFWW
+            Height (ft.): 28      Diameter (in.): 36
+            NYTMN (km.): 4765.557 NYTME (km.): 180.461                 Building: 1-23
+
+     Emission Point: BKPBS
+            Height (ft.): 28      Diameter (in.): 36
+            NYTMN (km.): 4765.557 NYTME (km.): 180.461                 Building: 1-23
+
+     Emission Point: FN000
+            Height (ft.): 32      Diameter (in.): 24
+            NYTMN (km.): 4765.583 NYTME (km.): 180.41                  Building: 1-21
+
+     Emission Point: FS000
+            Height (ft.): 31              Diameter (in.): 20
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 36                     FINAL
+Permit ID: 9-1464-00164/00117             Facility DEC ID: 9146400164
+
+
+            NYTMN (km.): 4765.568 NYTME (km.): 180.417         Building: 1-21
+
+    Emission Point: LNMEZ
+           Height (ft.): 27      Diameter (in.): 36
+           NYTMN (km.): 4765.557 NYTME (km.): 180.461          Building: 1-04
+
+    Emission Point: LSMEZ
+           Height (ft.): 27      Diameter (in.): 36
+           NYTMN (km.): 4765.557 NYTME (km.): 180.461          Building: 1-04
+
+    Emission Point: MMIX1
+           Height (ft.): 30      Diameter (in.): 24
+           NYTMN (km.): 4765.556 NYTME (km.): 180.461          Building: 1-04
+
+    Emission Point: MMIX2
+           Height (ft.): 30      Diameter (in.): 24
+           NYTMN (km.): 4765.556 NYTME (km.): 180.46           Building: 1-04
+
+    Emission Point: MRE03
+           Height (ft.): 30      Diameter (in.): 48
+           NYTMN (km.): 4765.557 NYTME (km.): 180.461          Building: 1-21
+
+    Emission Point: MRE04
+           Height (ft.): 30      Diameter (in.): 36
+           NYTMN (km.): 4765.557 NYTME (km.): 180.461          Building: 1-21
+
+    Emission Point: MRE05
+           Height (ft.): 30      Diameter (in.): 48
+           NYTMN (km.): 4765.557 NYTME (km.): 180.461          Building: 1-21
+
+    Emission Point: MRE06
+           Height (ft.): 30      Diameter (in.): 48
+           NYTMN (km.): 4765.557 NYTME (km.): 180.461          Building: 1-21
+
+    Emission Point: MRE15
+           Height (ft.): 28      Diameter (in.): 36
+           NYTMN (km.): 4765.557 NYTME (km.): 180.461          Building: 1-23
+
+    Emission Point: MRE20
+           Height (ft.): 29      Diameter (in.): 48
+           NYTMN (km.): 4765.557 NYTME (km.): 180.461          Building: 1-20
+
+    Emission Point: MRE23
+           Height (ft.): 29      Diameter (in.): 24
+           NYTMN (km.): 4765.557 NYTME (km.): 180.461          Building: 1-24
+
+    Emission Point: MRE30
+           Height (ft.): 21      Diameter (in.): 24
+           NYTMN (km.): 4765.557 NYTME (km.): 180.461          Building: 1-21
+
+    Emission Point: TRNOV
+           Height (ft.): 24          Diameter (in.): 36
+
+                            Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                Page 37                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+              NYTMN (km.): 4765.557 NYTME (km.): 180.461               Building: 1-21
+
+Item 36.6(From Mod 1):
+The following emission points are included in this permit for the cited Emission Unit:
+
+     Emission Unit:    U-NCS01
+
+     Emission Point: NCS01
+            Height (ft.): 197     Diameter (in.): 60
+            NYTMN (km.): 4765.542 NYTME (km.): 180.472                 Building: NE 1-72
+
+Item 36.7(From Mod 0):
+The following emission points are included in this permit for the cited Emission Unit:
+
+     Emission Unit:    U-TANKS
+
+     Emission Point: ACID3
+            Height (ft.): 13      Diameter (in.): 3
+            NYTMN (km.): 4765.556 NYTME (km.): 180.461                 Building: TANKS
+
+     Emission Point: BL004
+            Height (ft.): 13      Diameter (in.): 3
+            NYTMN (km.): 4765.556 NYTME (km.): 180.461                 Building: TANKS
+
+     Emission Point: CS20C
+            Height (ft.): 1 Length (in.): 840 Width (in.): 420
+            NYTMN (km.): 4765.559 NYTME (km.): 180.47       Building: TANKS
+
+     Emission Point: CS20D
+            Height (ft.): 27      Diameter (in.): 4
+            NYTMN (km.): 4765.556 NYTME (km.): 180.461                 Building: TANKS
+
+     Emission Point: NAOH7
+            Height (ft.): 13      Diameter (in.): 3
+            NYTMN (km.): 4765.489 NYTME (km.): 180.509                 Building: TANKS
+
+Condition 37:      Process Definition By Emission Unit
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR Subpart 201-6
+
+Item 37.1(From Mod 4):
+This permit authorizes the following regulated processes for the cited Emission Unit:
+
+     Emission Unit: U-MAKOT
+     Process: MCO                         Source Classification Code: 3-07-003-99
+     Process Description:
+             Two pulp feed systems for viscose production. The pulp
+             feed system will break up the pulp. The pulp will then be
+             sprayed with caustic solution and fed into each of four
+             existing viscose shredders.
+
+
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 38                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+     Emission Source/Control: C0084 - Control
+     Control Type: DUST COLLECTOR
+
+     Emission Source/Control: C0085 - Control
+     Control Type: DUST COLLECTOR
+
+     Emission Source/Control: 00084 - Process
+
+     Emission Source/Control: 00085 - Process
+
+Item 37.2(From Mod 4):
+This permit authorizes the following regulated processes for the cited Emission Unit:
+
+     Emission Unit: U-NCS01
+     Process: SRU                         Source Classification Code: 3-02-032-01
+     Process Description:
+             Higher carbon disulfide concentration process sources
+             that vent to carbon absorption control equipment and
+             exhaust out NCS01 (main stack) associated with sponge
+             manufacturing.
+
+     Emission Source/Control: 000C1 - Control
+     Control Type: FABRIC FILTER
+
+     Emission Source/Control: 000C2 - Control
+     Control Type: FABRIC FILTER
+
+     Emission Source/Control: 00001 - Process
+
+     Emission Source/Control: 00002 - Process
+
+     Emission Source/Control: 00003 - Process
+
+     Emission Source/Control: 00004 - Process
+
+     Emission Source/Control: 00010 - Process
+
+     Emission Source/Control: 00011 - Process
+
+     Emission Source/Control: 00012 - Process
+
+     Emission Source/Control: 00020 - Process
+
+     Emission Source/Control: 00030 - Process
+
+     Emission Source/Control: 00050 - Process
+
+     Emission Source/Control: 00051 - Process
+
+     Emission Source/Control: 00052 - Process
+
+     Emission Source/Control: 00060 - Process
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 39                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+
+     Emission Source/Control: 00061 - Process
+
+     Emission Source/Control: 00070 - Process
+
+     Emission Source/Control: 00071 - Process
+
+     Emission Source/Control: 00100 - Process
+
+     Emission Source/Control: 00101 - Process
+     Design Capacity: 4,000 gallons
+
+     Emission Source/Control: 00102 - Process
+     Design Capacity: 4,000 gallons
+
+     Emission Source/Control: 00130 - Process
+
+     Emission Source/Control: 00170 - Process
+
+     Emission Source/Control: 00171 - Process
+
+     Emission Source/Control: COT00 - Process
+
+     Emission Source/Control: CR001 - Process
+
+     Emission Source/Control: CS205 - Process
+
+     Emission Source/Control: MIX00 - Process
+
+     Emission Source/Control: VAC00 - Process
+
+Item 37.3(From Mod 4):
+This permit authorizes the following regulated processes for the cited Emission Unit:
+
+     Emission Unit: U-SEPAR
+     Process: SEP                        Source Classification Code: 3-01-810-01
+     Process Description:
+             The process technology converts contaminants in the
+             waste liquor under pressure and temperature to sulfate and
+             carbon dioxide.
+
+     Emission Source/Control: SEP02 - Control
+     Control Type: THERMAL OXIDATION
+
+     Emission Source/Control: SEP01 - Process
+     Design Capacity: 150 gallons per hour
+
+Item 37.4(From Mod 0):
+This permit authorizes the following regulated processes for the cited Emission Unit:
+
+     Emission Unit: U-BOILS
+     Process: 278                         Source Classification Code: 1-02-006-02
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 40                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+     Process Description:
+             Emission Source BOI01 and BOI02, two boilers, rated at
+             63.2 mmbtu/hr each, when firing natural gas as primary
+             fuel.
+
+     Emission Source/Control: BOI01 - Combustion
+     Design Capacity: 63.2 million Btu per hour
+
+Item 37.5(From Mod 0):
+This permit authorizes the following regulated processes for the cited Emission Unit:
+
+     Emission Unit: U-BOILS
+     Process: 279                      Source Classification Code: 1-03-005-01
+     Process Description:
+             Emission Source BOI01 and BOI02, 2 boilers rated at
+             60.4mmmbtu/hr when firing on # 2 low sulfur oil as backup
+             to natural gas use.
+
+     Emission Source/Control: BOI02 - Combustion
+     Design Capacity: 60.4 million Btu per hour
+
+Item 37.6(From Mod 0):
+This permit authorizes the following regulated processes for the cited Emission Unit:
+
+     Emission Unit: U-CONVT
+     Process: 277                          Source Classification Code: 4-02-013-10
+     Process Description:
+             This process consists of a coater used to apply adhesive.
+             The coater utilizes a heater to melt the adhesive.
+
+
+     Emission Source/Control: BND01 - Process
+
+     Emission Source/Control: BND02 - Process
+
+Item 37.7(From Mod 0):
+This permit authorizes the following regulated processes for the cited Emission Unit:
+
+     Emission Unit: U-MAKOT
+     Process: OTH                       Source Classification Code: 3-02-032-01
+     Process Description:
+             Sources in the sponge making process that do not vent to
+             the main stack include:
+
+              1. Particulate from material handling operation for
+              process materials used in sponge making located in Bldg.
+              1-21 and 1-41.
+
+              2. Uncaptured emissions from EC cooker, EC mixer,
+              reclamation tank , and ML wash sources (i.e. main stack
+              sources), located in bldg. 1-21 and 1-23.
+
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 41                     FINAL
+Permit ID: 9-1464-00164/00117                Facility DEC ID: 9146400164
+
+
+            3. Emissions from viscose handling, the conveying of
+            unwashed sponge blocks, mother liquor collection and
+            storage system, salt crystallizing and handling system,
+            and washing of sponge blocks, located in bldg. 1-20, 1-21,
+            1-23.
+
+            4. Uncaptured emissions from lam line mixers and lam line
+            cook tables located in bldg 1-04.
+
+
+    Emission Source/Control: 00090 - Process
+
+    Emission Source/Control: 00110 - Process
+
+    Emission Source/Control: 00111 - Process
+
+    Emission Source/Control: 00112 - Process
+
+    Emission Source/Control: 00113 - Process
+
+    Emission Source/Control: 00114 - Process
+
+    Emission Source/Control: 02001 - Process
+
+    Emission Source/Control: 02002 - Process
+
+    Emission Source/Control: 02003 - Process
+
+    Emission Source/Control: 02004 - Process
+
+    Emission Source/Control: 02101 - Process
+
+    Emission Source/Control: 02102 - Process
+
+    Emission Source/Control: 02103 - Process
+
+    Emission Source/Control: 02104 - Process
+
+    Emission Source/Control: 02105 - Process
+
+    Emission Source/Control: 02106 - Process
+
+    Emission Source/Control: 02107 - Process
+
+    Emission Source/Control: 04001 - Process
+
+    Emission Source/Control: 04002 - Process
+
+    Emission Source/Control: B1000 - Process
+
+    Emission Source/Control: B3000 - Process
+
+
+                              Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                  Page 42                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+     Emission Source/Control: BKFWW - Process
+
+     Emission Source/Control: BKPBS - Process
+
+     Emission Source/Control: FN000 - Process
+
+     Emission Source/Control: FS000 - Process
+
+     Emission Source/Control: MRE15 - Process
+
+     Emission Source/Control: TRNOV - Process
+
+Item 37.8(From Mod 1):
+This permit authorizes the following regulated processes for the cited Emission Unit:
+
+     Emission Unit: U-NCS01
+     Process: NCS                       Source Classification Code: 3-02-032-01
+     Process Description:
+             Low carbon disulfide process sources that vent directly
+             to emission point NCS01 associated with sponge
+             manufacturing.
+
+     Emission Source/Control: 00080 - Process
+
+     Emission Source/Control: 00081 - Process
+
+     Emission Source/Control: 00082 - Process
+
+     Emission Source/Control: 00083 - Process
+
+     Emission Source/Control: 00120 - Process
+
+     Emission Source/Control: 00150 - Process
+
+     Emission Source/Control: 00151 - Process
+
+Item 37.9(From Mod 0):
+This permit authorizes the following regulated processes for the cited Emission Unit:
+
+     Emission Unit: U-NCS01
+     Process: WAO                        Source Classification Code: 3-01-810-01
+     Process Description:
+             The process technology converts contaminants in the
+             waste liquor under pressure and temperature to sulfate and
+             carbon dioxide. This process vents to emission point NCS01
+             only when in bypass which is defined in the Start up ,
+             shutdown and malfunction plan.
+
+     Emission Source/Control: WAO11 - Process
+
+Item 37.10(From Mod 0):
+This permit authorizes the following regulated processes for the cited Emission Unit:
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 43                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+
+     Emission Unit: U-TANKS
+     Process: 266                         Source Classification Code: 3-01-870-01
+     Process Description:
+             The NaOH7, ACID3, BLOO4, tanks each have one emission
+             point associated with them, the CS204 tank has two. CS20C
+             is the dike where displaced water is aerated to remove
+             carbon disulfide. CS20D is the pressure relief vent line
+             for the tank.
+
+     Emission Source/Control: ACID3 - Process
+     Design Capacity: 11,181 gallons
+
+     Emission Source/Control: BL004 - Process
+     Design Capacity: 12,944 gallons
+
+     Emission Source/Control: NAOH7 - Process
+     Design Capacity: 42,943 gallons
+
+     Emission Source/Control: WATBL - Process
+
+Condition 4-6:     Emission Unit Permissible Emissions
+                  Effective between the dates of 10/18/2011 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR Subpart 201-7
+
+Item 4-6.1:
+The sum of emissions from all regulated processes specified in this permit for the emission unit
+cited
+shall not exceed the following Potential to Emit (PTE) rates for each regulated contaminant:
+
+              Emission Unit: U-SEPAR
+
+              CAS No: 007446095         (From Mod 4)
+              Name: SULFUR DIOXIDE
+              PTE(s): 28.43 pounds per hour
+
+Condition 38:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:40CFR 60.42c(d), NSPS Subpart Dc
+
+Item 38.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-BOILS
+
+Item 38.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: WORK PRACTICE INVOLVING SPECIFIC
+                 OPERATIONS
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 44                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+Monitoring Description:
+            No owner or operator of an affected facility that
+            combusts oil shall combust oil with a sulfur content of
+            0.5 percent by weight.
+
+
+
+Work Practice Type: PARAMETER OF PROCESS MATERIAL
+Process Material: NUMBER 2 OIL
+Parameter Monitored: SULFUR CONTENT
+Upper Permit Limit: 0.5 percent
+Monitoring Frequency: PER DELIVERY
+Averaging Method: MAXIMUM - NOT TO BE EXCEEDED AT ANY
+                    TIME (INSTANTANEOUS/DISCRETE OR GRAB)
+Reporting Requirements: ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 12 calendar month(s).
+
+Condition 39:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:40CFR 60.11(e)(1), NSPS Subpart A
+
+Item 39.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-BOILS
+     Process: 279
+
+Item 39.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: INTERMITTENT EMISSION TESTING
+Monitoring Description:
+             Opacity when firing oil will be checked once per day or
+             as necessary and a record of observations maintained. This
+             observation(s) must be conducted during daylight hours
+             except during adverse weather conditions (fog, rain ,
+             snow). The results of each observation must be recorded in
+             a bound logbook or other format acceptable to the
+             department. The following data must be recorded for each
+             stack:- weather condition;- was a plume observed? This
+             logbook must be retained at the facility for five years
+             after the date of last entry. If the operator observes any
+             visible emissions (other than steam), then a method 9
+             analysis (based on a 6-minute avg.) of the affected
+             emission point(s) must be conducted within two business
+             days of such occurrence. The results of the method 9
+             analysis must be recorded in the logbook. The operator
+             must contact the Regional Air Pollution Control Engineer
+             within one business day of performing the method 9
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 45                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+              analysis if the opacity standard is contravened. Upon
+              notification, any corrective actions or future compliance
+              schedules shall be presented to the Department of
+              acceptance.
+
+Parameter Monitored: OPACITY
+Upper Permit Limit: 20 percent
+Reference Test Method: EPA Method 9
+Monitoring Frequency: AS REQUIRED - SEE PERMIT MONITORING
+                 DESCRIPTION
+Averaging Method: 6 MINUTE AVERAGE
+Reporting Requirements: AS REQUIRED - SEE MONITORING DESCRIPTION
+
+Condition 40:       Compliance Certification
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable Federal Requirement:40CFR 60.44c(h), NSPS Subpart Dc
+
+Item 40.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-BOILS
+     Process: 279
+
+Item 40.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                  DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             The facility owner and/or operator must demonstrate
+             compliance with the requirements of 40 cfr 60.42c(h).
+             Facilities demonstrating compliance using the fuel
+             supplier certification, for sulfur-in-fuel limitations
+             (based on a percent by weight of sulfur in the fuel),
+             shall submit the certification in accordance with the
+             provisions of 40 cfr 60.48c(f)(1) which for distillate oil
+             are: The name of the oil supplier; and a statement from
+             the oil supplier that the oil complies with the
+             specifications under the definition of distillate oil in
+             40 cfr 60.41c.
+
+Parameter Monitored: SULFUR CONTENT
+Upper Permit Limit: 0.5 percent by weight
+Monitoring Frequency: PER DELIVERY
+Averaging Method: MAXIMUM - NOT TO BE EXCEEDED AT ANY
+                    TIME (INSTANTANEOUS/DISCRETE OR GRAB)
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 46                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+Condition 41:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.10
+
+Item 41.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-MAKOT
+
+     Regulated Contaminant(s):
+             CAS No: 0NY998-00-0          VOC
+
+Item 41.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: RECORD KEEPING/MAINTENANCE PROCEDURES
+Monitoring Description:
+             The existing sources in this emission unit all have low
+             emissions (ERP<3.0lbs/hr). Existing emission points with
+             an ERP <3.0lbs/hr are not required to perform a RACT
+             analysis. Appropriate records documenting thruput and
+             estimated emissions will be kept to insure emissions do
+             not exceed 3 pounds/hour. These records may use daily
+             production rates to determine hourly emission rates at
+             each emission point. RACT must be addressed before
+             emissions can exceed 3 pounds per hour.
+
+Monitoring Frequency: PER BATCH OF PRODUCT/RAW MATERIAL
+                    CHANGE
+Averaging Method: 24-HOUR AVERAGE
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 4-7:     Compliance Certification
+                  Effective between the dates of 10/18/2011 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.4 (c)
+
+                Replaces Condition(s) 2-1
+Item 4-7.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-MAKOT
+     Process: MCO
+
+     Regulated Contaminant(s):
+             CAS No: 0NY075-00-0          PARTICULATES
+
+Item 4-7.2:
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 47                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                  DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             Particulate emissions from any process source at the
+             facility is limited to 0.050 grains/ dscf of exhaust
+             gases. Sources with baghouse control equipment shall
+             monitor baghouse pressure change once per operating day to
+             ensure proper operation. The baghouse pressure change will
+             be maintained at or below 6.0 inches of water.
+
+Manufacturer Name/Model Number: Torit Model DFO-2-12
+Parameter Monitored: PRESSURE CHANGE
+Upper Permit Limit: 6.0 inches of water
+Reference Test Method: EPA Method 5
+Monitoring Frequency: DAILY
+Averaging Method: MAXIMUM - NOT TO EXCEED STATED VALUE -
+                    SEE MONITORING DESCRIPTION
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2012.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 42:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.4 (c)
+
+Item 42.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-NCS01
+
+     Regulated Contaminant(s):
+             CAS No: 0NY075-00-0          PARTICULATES
+
+Item 42.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                  DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             Particulate emissions from any process source at the
+             facility is limited to 0.05 grains/ dscf of exhaust gases.
+             Sources with baghouse control equipment, such as emission
+             sources 000C1 and 000C2, will monitor baghouse pressure
+             drop once per operating day to insure proper operation.
+             The baghouse pressure drop will be maintained at or below
+             6.0 inches of water.
+
+Parameter Monitored: PRESSURE DROP
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 48                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+Upper Permit Limit: 6.0 inches of water
+Monitoring Frequency: DAILY
+Averaging Method: MAXIMUM - NOT TO BE EXCEEDED PER
+                    OCCURRENCE
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 43:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:40CFR 63.5505(b), Subpart UUUU
+
+Item 43.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-NCS01
+
+     Regulated Contaminant(s):
+             CAS No: 000075-15-0          CARBON DISULFIDE
+
+Item 43.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: RECORD KEEPING/MAINTENANCE PROCEDURES
+Monitoring Description:
+             This section of the rule requires facilities using a
+             carbon absorber for control to monitor carbon bed
+             regeneration frequency, stream mass, volumetric flow,
+             temperature etc. in order to insure that the parameters
+             are within those established during the performance test.
+             Since this facility maintains and operates a Continuous
+             Emission Rate Monitoring System (CERMS) for carbon
+             disulfide emissions at the inlet and the outlet of the
+             carbon absorber the performance of the the equipment is
+             considered accurately monitored. Therefore, monitoring of
+             the parameters as mentioned in 40 cfr 63.5505(b), table 2,
+             number 7 is not required.
+             Substituting a CERMS system in lieu of monitoring carbon
+             bed regeneration parameters is not clearly stated as being
+             allowed in this rule but makes sense. We have confirmed
+             with the EPA project lead on this MACT standard and they
+             are in agreement with this determination.
+
+              Maintenance of The CERMS as required elsewhere in this
+              permit will be considered compliance with this condition.
+
+Monitoring Frequency: AS REQUIRED - SEE PERMIT MONITORING
+                 DESCRIPTION
+Reporting Requirements: AS REQUIRED - SEE MONITORING DESCRIPTION
+
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 49                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+Condition 44:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.10
+
+Item 44.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-NCS01
+     Process: NCS
+
+     Regulated Contaminant(s):
+             CAS No: 0NY998-00-0          VOC
+
+Item 44.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                 DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             The low concentration emission sources vented to E.P
+             NCS01 are unabated and were stack tested in July/August
+             2002 for capture efficiency and carbon disulfide
+             emissions, the predominant VOC. The NCS sources emit less
+             than 3.0 pounds per hour and are exempt from RACT under 6
+             NYCRR part 212.10. Compliance with this requirement is met
+             by maintaining production data to demonstrate that all
+             uncontrolled sources emit less than 3 pounds per
+             hour.
+
+              All new or modified emission units operating at the
+              facility containing an emission source with a VOC emission
+              rate potential less that 3.0 pounds per hour will require
+              the facility to maintain production data to demonstrate
+              that uncontrolled source are less than 3 pounds per hour.
+
+Parameter Monitored: VOC
+Upper Permit Limit: 3.0 pounds per hour
+Reference Test Method: EPA method 18 or similiar
+Monitoring Frequency: PER BATCH OF PRODUCT/RAW MATERIAL
+                    CHANGE
+Averaging Method: 24-HOUR AVERAGE
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 45:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.9
+
+
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 50                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+Item 45.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-NCS01
+     Process: SRU
+
+     Regulated Contaminant(s):
+             CAS No: 0NY998-00-0          VOC
+
+Item 45.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: CONTINUOUS EMISSION MONITORING (CEM)
+Monitoring Description:
+             This office must be notified prior to planned maintenance
+             of the Solvent Recovery Unit, which results in operation
+             without control. Bypass due to carbon change of the
+             preadsorber is expected to occur periodically. Bypass due
+             to carbon change of the primary adsorbers is expected to
+             also occur periodically, which will coincide with one of
+             the preadsorber changes. During planned SRU bypass, the
+             facility production rate will be reduced to a level which
+             produces 140 pounds per hour or less of CS2 emissions out
+             the NCS01 stack. This emission rate has been modeled and
+             the ambient ground level concentration is below the
+             Airguide 1 short- term guidance concentration(SGC) and the
+             odor threshold for carbon disulfide.
+
+Manufacturer Name/Model Number: Servomex Xendos 2500 NDIR
+Upper Permit Limit: 140 pounds per hour
+Reference Test Method: EPA method 1-4&18
+Monitoring Frequency: CONTINUOUS
+Averaging Method: 1 HOUR MAXIMUM - NOT TO BE EXCEEDED AT
+                    ANY TIME
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 46:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.10
+
+Item 46.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-NCS01
+     Process: SRU
+
+     Regulated Contaminant(s):
+             CAS No: 000075-15-0          CARBON DISULFIDE
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 51                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+
+Item 46.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: CONTINUOUS EMISSION MONITORING (CEM)
+Monitoring Description:
+             Part 212.10 requires RACT (Reasonable Available Control
+             Technology) for major sources of VOC (Volatile Organic
+             Compounds). Part 212.10(c)(4)(i) defines RACT for VOC
+             emission points which are equipped with a capture and
+             control device with an overall removal efficiency to be at
+             least 81 %.
+
+               A CEM for Carbon Disulfide is also maintained at the
+              inlet and outlet of the SRU for the purpose for
+              determining removal efficiency for VOC's. The CEM data
+              collected for Carbon Disulfide in conjunction with a 92.3%
+              capture efficiency demonstrated during the July 30, 2002
+              stack testing (modified based on 2006 operating sources)
+              will be used to calculate a weighted average overall
+              control efficiency for VOC emissions from the SRU.
+
+              All new or modified emission units operating at the
+              facility containing an emission source with a VOC emission
+              rate potential greater than 3.0 pounds per hour will be
+              required to meet the 81% overall VOC removal
+              efficiency.
+
+
+Manufacturer Name/Model Number: Servomex xendos
+Lower Permit Limit: 81 percent reduction
+Reference Test Method: EPA method 18 or similiar
+Monitoring Frequency: CONTINUOUS
+Averaging Method: 30-DAY AVERAGE
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 4-8:     Compliance Certification
+                  Effective between the dates of 10/18/2011 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.11 (b) (3)
+
+                Replaces Condition(s) 47
+Item 4-8.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-NCS01
+     Process: SRU
+
+     Regulated Contaminant(s):
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 52                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+              CAS No: 000075-15-0          CARBON DISULFIDE
+
+Item 4-8.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: CONTINUOUS EMISSION MONITORING (CEM)
+Monitoring Description:
+             The referenced rule requires that the outlet
+             concentration of Volatile Organic Compounds (VOC) be
+             monitored from fixed bed carbon adsorption units. This
+             emission unit is also monitored to determine compliance
+             with 6 NYCRR part 212.10 "RACT" by demonstrating an
+             overall VOC emission reduction of 81% and to determine
+             compliance with the pound/hour and ton/year limits under
+             part 231-2. To do this 3M operates and maintains a Carbon
+             Disulfide (CS2) Continuous Emission Rate Monitoring System
+             which consists of infrared monitors for CS2 at the inlet
+             of the carbon adsorption system, the outlet of the carbon
+             adsorption system and the main stack with flowmeters at
+             the SRU outlet and main stack. This condition outlines
+             the operation and oversight of all the CEM systems
+             mentioned to determine compliance.
+
+              1.             The continuous emission monitors must be operated at
+              all times when the associated process equipment is
+              operating except during reasonable periods of monitor
+              downtime due to the following causes which are not
+              considered deviations:
+                             a. Quality assurance, including RATA's and CGA's, daily
+              zero and span drift checks and calibration checks;
+                             b. Routine maintenance activities;
+                             c. Sudden monitor breakdowns due to, among other things,
+              power failures;
+                             d. Damage to the monitoring system due to acts of God
+              such as lightning strikes, tornadoes or floods, which
+              render the monitor inoperative.
+
+              2.             Each monitor must be operated according to a quality
+              assurance program approved by the Department. Both plans
+              must be kept current with update when significant changes
+              to the continuous emissions monitoring system or new data
+              warrants it. NYSDEC's Air Guide 34 contains an appropriate
+              outline for an acceptable Monitoring plan and Quality
+              Assurance plan.
+              3.             3M must conduct annual RATA testing. 3M will give
+              NYSDEC 30 days notice prior to annual RATA tests. A test
+              report for RATA's must be submitted to the DEC Region 9
+              office and to the Bureau of Compliance Monitoring and
+              Enforcement, Albany Central office within 60 days after
+              completion of testing.
+
+              4.            The facility shall submit a written report to the
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 53                     FINAL
+Permit ID: 9-1464-00164/00117               Facility DEC ID: 9146400164
+
+
+            Region 9 office and to the Bureau of Compliance Monitoring
+            and Enforcement, Albany Central Office on a calendar year
+            quarter. All quarterly reports shall be post marked by the
+            30th day following the end of each calendar quarter and
+            shall include:
+                            a. A summary of all emission limitations
+                            b. A summary of CEM operations, including down time and
+            out-of-control periods. The time monitors are taken off
+            line for daily zero and span checks need not be reported.
+            The data lost because of daily drift checks (two fifteen
+            minute periods per day) is not considered as down
+            time.
+                            c. The Quality Assurance program requires daily,
+            quarterly and annual audits. The daily drift checks shall
+            be done using a zero level (0 to 20% of span) and high
+            level (80 to 100% of span) gas. The CS2 gases must be
+            certified NIST traceable gases to + or- 2%. If the
+            monitor has dual ranges, and the low range has been
+            exceeded for one hour or longer since the previous test,
+            both ranges must be tested. The signal calibration check
+            for flow meters must be done once per day. A RATA shall be
+            done annually. A Cylinder Gas Audit (CGA) shall be done
+            quarterly. The CS2 gas must be certified NIST traceable
+            to + or- 2%. A RATA can be used in lieu of a CGA for one
+            of the quarters. If an audit shows unacceptable results,
+            corrective action shall be taken and the audit repeated.
+            The results of all audits shall be submitted to the
+            department quarterly.
+                            d. A summary sheet for the total number of times the
+            facility was in violation of the permitted emission
+            limits. The total time during the quarter for which the
+            CEM system was not recording data including:
+                           (i) acceptable monitor downtime
+            (defined above, excluding daily zero and span checks,
+            which need not be reported);
+                           (ii) monitor downtime due to
+            circumstances other than those indicated above. Emissions
+            for periods where the CEM's do not record data will be
+            based on the average emission during the period (CFR 40
+            5560(c)).
+
+
+
+
+Manufacturer Name/Model Number: Servomex Xendos 2500 NDIR
+Parameter Monitored: CARBON DISULFIDE
+Lower Permit Limit: 81 percent reduction
+Reference Test Method: 40CFR60 Appendix A & B
+Monitoring Frequency: CONTINUOUS
+Averaging Method: MINIMUM - NOT TO FALL BELOW STATED
+                 VALUE AT ANY TIME
+
+                             Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                 Page 54                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+Reporting Requirements: QUARTERLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2012.
+Subsequent reports are due every 3 calendar month(s).
+
+Condition 1-1:     Compliance Certification
+                  Effective between the dates of 06/04/2008 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.10 (c) (4) (iii)
+
+Item 1-1.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-NCS01               Emission Point: NCS01
+     Process: NCS                         Emission Source: 00120
+
+     Regulated Contaminant(s):
+             CAS No: 0NY998-00-0          VOC
+
+Item 1-1.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: INTERMITTENT EMISSION TESTING
+Monitoring Description:
+             The mother liquor wash table emissions are proposed to
+             increase due to a change in equipment which allows greater
+             throughput. This source previously emitted 2.8 lbs/hr of
+             VOC emissions, and will be permitted to emit 5.0 pounds
+             per hour without control. A Reasonable Available Control
+             technology (RACT)evaluation, per air guide 20, was
+             submitted with the application and a variance is granted
+             upon approval of this permit. Previous stack test data
+             along with production records as well as any other
+             credible information will be used to track emissions from
+             this source. Records must be kept on a monthly basis of
+             sponge block throughput and estimated emissions. Stack
+             testing may be required at the Departments discretion.
+
+
+              A RACT analysis is required once every 5 years and for
+              consistency with other permit conditions, is required to
+              be submitted with the permit renewal application.
+
+Upper Permit Limit: 5.0 pounds per hour
+Reference Test Method: EPA appd methods
+Monitoring Frequency: MONTHLY
+Averaging Method: 24-HOUR AVERAGE
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 7/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 55                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+Condition 48:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.9 (b)
+
+Item 48.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-SEPAR
+
+     Regulated Contaminant(s):
+             CAS No: 000075-07-0          ACETALDEHYDE
+             CAS No: 000107-02-8          ACROLEIN
+
+Item 48.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                  DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             Acrolein and Acetaldehyde emissions must be below the
+             short and long term guidance concentrations established in
+             Air Guide 1 as determined by modeling at the property
+             line. Air Quality modeling results submitted with the
+             application evaluated allowable emissions of Acrolein and
+             Acetaldehyde when controlled by the Thermal Oxidizer
+             venting out emission point SEPAR and when in by pass mode
+             venting out emission point NCS01. At the estimated
+             Potential to Emit and a 98% destruction Efficiency rating
+             of the Thermal Oxidizer emissions of Acrolein and
+             Acetaldehyde will meet the levels established in Air Guide
+             1. During events defined as start up, shutdown , or
+             malfunction (SSM) in the facility's SSM plan, or in other
+             unexpected emergency situations where it is safer and/or
+             more environmentally beneficial to continue to operate WAO
+             while by passing the RTO rather than shutting down the
+             WAO; the facility may bypass the RTO and vent the
+             emissions out the existing main stack (NCS01). Per 6NYCRR
+             Part 201-1.4, violations of any applicable emission
+             standards during the above described scenarios may be
+             excused if such violations are unavoidable. Notification,
+             record keeping and reporting requirements must be in
+             accordance with 6 NYCRR part 201-1.4.
+
+Parameter Monitored: TEMPERATURE
+Lower Permit Limit: 1500 degrees Fahrenheit
+Reference Test Method: approved EPA methods
+Monitoring Frequency: CONTINUOUS
+Averaging Method: 1-HOUR AVERAGE
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 56                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 49:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:40CFR 63.5505(b), Subpart UUUU
+
+Item 49.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-SEPAR
+
+Item 49.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                  DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             Maintain the daily average thermal oxidizer firebox
+             temperature no lower than the value established during the
+             compliance demonstration collecting the thermal oxidizer
+             firebox temperature data according to §63.5545; Reduce the
+             thermal oxidizer firebox temperature data to daily
+             averages; and maintaining the daily average thermal
+             oxidizer firebox temperature no lower than the value
+             established during the compliance demonstration.
+
+Parameter Monitored: TEMPERATURE
+Lower Permit Limit: 1500 degrees Fahrenheit
+Monitoring Frequency: CONTINUOUS
+Averaging Method: 24 HOUR BLOCK AVERAGE
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 4-9:     Compliance Certification
+                  Effective between the dates of 10/18/2011 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.5 (d)
+
+Item 4-9.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-SEPAR               Emission Point: SEPAR
+
+     Regulated Contaminant(s):
+             CAS No: 007446-09-5          SULFUR DIOXIDE
+
+Item 4-9.2:
+Compliance Certification shall include the following monitoring:
+
+
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 57                     FINAL
+Permit ID: 9-1464-00164/00117                Facility DEC ID: 9146400164
+
+
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                  DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             Sulfur Dioxide (SO2) emissions at the facility are
+             limited to 94.24 tpy under 40 CFR Part 52.21 Subpart A as
+             detailed in this permit in a monitoring condition under
+             6NYCRR 201-7. Monthly emissions of SO2 from the Thermal
+             Oxidizer (TO) will be calculated and counted towards this
+             CAP. Although the TO will create SO2 while destroying
+             Carbon Disulfide (CS2), as well as other volatile organic
+             compounds and hazardous air pollutants, it is the
+             Department's opinion that the benefits greatly outweigh
+             any other option and therefore control of SO2 is not
+             required.
+
+            The outlet pH level for the WAO separator will be measured
+            as a surrogate to demonstrate compliance with the 28.43
+            lb/hr SO2 emission limit. The pH lower limit of 2.3 pH
+            units is based on stack test data, pilot test data and
+            operational knowledge. This level will maintain worst case
+            process CS2 emissions below 16.88 lb/hr. The resulting SO2
+            emissions from Emission Point SEPAR, generated by the
+            oxidation of CS2 to SO2 in the TO, will result in
+            emissions less than 28.43 lb SO2/hr, based on a 1-hr
+            average.
+
+            To verify compliance with the pH lower limit, the outlet
+            pH shall be continuously monitored and recorded. The
+            continuous recorder shall be installed, operated,
+            calibrated and maintained in accordance with the
+            manufacturer’s recommendations. All electronic data shall
+            be stored securely and backed up on a daily basis.
+
+            The facility shall follow start-up and malfunction
+            procedures to achieve the pH limit within 6 hours of
+            start- up.
+
+            Original electronic data from the recorder showing
+            continuous monitoring and recording of the pH, records of
+            calibration, maintenance, repair, start-up, malfunction,
+            etc. shall be maintained onsite for five years and shall
+            be readily available upon request by the NYSDEC and/or
+            USEPA.
+
+Manufacturer Name/Model Number: Rosemount 396R pH Sensor with Rosemount 581
+Transmitter
+Parameter Monitored: ACIDITY/ALKALINITY
+Lower Permit Limit: 2.3 pH (STANDARD) units
+Monitoring Frequency: CONTINUOUS
+Averaging Method: 1-HOUR AVERAGE
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+
+                              Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                  Page 58                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+The initial report is due 1/30/2012.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 51:      Compliance Certification
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:6 NYCRR 212.10 (c) (4) (i)
+
+Item 51.1:
+The Compliance Certification activity will be performed for:
+
+     Emission Unit: U-SEPAR               Emission Point: SEPAR
+
+     Regulated Contaminant(s):
+             CAS No: 0NY998-00-0          VOC
+
+Item 51.2:
+Compliance Certification shall include the following monitoring:
+
+Monitoring Type: MONITORING OF PROCESS OR CONTROL
+                  DEVICE PARAMETERS AS SURROGATE
+Monitoring Description:
+             A thermal oxidizer is installed and operated to control
+             Volatile Organic Compound (VOC) emissions on the Wet Air
+             Oxidation (WAO) process. February 2006 stack testing
+             demonstrated compliance with Reasonable Available Control
+             Technology (RACT) Requirements with destruction
+             efficiencies of 98% at 1500 degrees F. Continuous
+             monitoring of Temperature will insure compliance with the
+             RACT requirement of at least 81% removal efficiency.
+
+Parameter Monitored: TEMPERATURE
+Lower Permit Limit: 1500 degrees Fahrenheit
+Reference Test Method: EPA approved methods
+Monitoring Frequency: CONTINUOUS
+Averaging Method: 1-HOUR AVERAGE
+Reporting Requirements: SEMI-ANNUALLY (CALENDAR)
+Reports due 30 days after the reporting period.
+The initial report is due 1/30/2008.
+Subsequent reports are due every 6 calendar month(s).
+
+Condition 52:    Nitrogen unloading and storage system for carbon
+            disulfide.
+                Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable Federal Requirement:40CFR 63.5505(a), Subpart UUUU
+
+Item 52.1:
+This Condition applies to   Emission Unit: U-TANKS
+
+Item 52.2:
+Install a nitrogen unloading and storage system for carbon disulfide. Maintain a record
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 59                     FINAL
+Permit ID: 9-1464-00164/00117                Facility DEC ID: 9146400164
+
+
+certifying that a nitrogen unloading and storage system is in use.
+
+
+
+
+                               Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                   Page 60                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+
+                STATE ONLY ENFORCEABLE CONDITIONS
+                       **** Facility Level ****
+
+
+              NOTIFICATION OF GENERAL PERMITTEE OBLIGATIONS
+This section contains terms and conditions which are not federally enforceable. Permittees
+may also have other obligations under regulations of general applicability
+
+Item A:       General Provisions for State Enforceable Permit Terms and
+              Condition - 6 NYCRR Part 201-5
+              Any person who owns and/or operates stationary sources
+              shall operate and maintain all emission units and any
+              required emission control devices in compliance with all
+              applicable Parts of this Chapter and existing laws, and
+              shall operate the facility in accordance with all
+              criteria, emission limits, terms, conditions, and
+              standards in this permit. Failure of such person to
+              properly operate and maintain the effectiveness of such
+              emission units and emission control devices may be
+              sufficient reason for the Department to revoke or deny a
+              permit.
+
+              The owner or operator of the permitted facility must
+              maintain all required records on-site for a period of five
+              years and make them available to representatives of the
+              Department upon request. Department representatives must
+              be granted access to any facility regulated by this
+              Subpart, during normal operating hours, for the purpose of
+              determining compliance with this and any other state and
+              federal air pollution control requirements, regulations or
+              law.
+
+
+               STATE ONLY APPLICABLE REQUIREMENTS
+The following conditions are state applicable requirements and are not subject to
+compliance certification requirements unless otherwise noted or required
+                           under 6 NYCRR Part 201.
+
+
+Condition 53:      Contaminant List
+                  Effective between the dates of 11/27/2007 and 11/26/2012
+
+                  Applicable State Requirement:ECL 19-0301
+
+Item 53.1:
+Emissions of the following contaminants are subject to contaminant specific requirements in this
+permit(emission limits, control requirements or compliance monitoring conditions).
+
+              CAS No: 000075-07-0
+              Name: ACETALDEHYDE
+
+
+
+                                Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                    Page 61                     FINAL
+Permit ID: 9-1464-00164/00117                  Facility DEC ID: 9146400164
+
+
+              CAS No: 000075-15-0
+              Name: CARBON DISULFIDE
+
+              CAS No: 000107-02-8
+              Name: ACROLEIN
+
+              CAS No: 007446-09-5
+              Name: SULFUR DIOXIDE
+
+              CAS No: 007664-93-9
+              Name: SULFURIC ACID
+
+              CAS No: 007783-06-4
+              Name: HYDROGEN SULFIDE
+
+              CAS No: 0NY075-00-0
+              Name: PARTICULATES
+
+              CAS No: 0NY998-00-0
+              Name: VOC
+
+Condition 4-10:      Unavoidable noncompliance and violations
+                  Effective between the dates of 10/18/2011 and 11/26/2012
+
+                  Applicable State Requirement:6 NYCRR 201-1.4
+
+                   Replaces Condition(s) 54
+Item 4-10.1:
+At the discretion of the commissioner a violation of any applicable emission standard for
+necessary scheduled equipment maintenance, start-up/shutdown conditions and malfunctions or
+upsets may be excused if such violations are unavoidable. The following actions and
+recordkeeping and reporting requirements must be adhered to in such circumstances.
+
+(a)            The facility owner and/or operator shall compile and maintain records of all
+equipment maintenance or start-up/shutdown activities when they can be expected to result in an
+exceedance of any applicable emission standard, and shall submit a report of such activities to
+the commissioner's representative when requested to do so in writing or when so required by a
+condition of a permit issued for the corresponding air contamination source except where
+conditions elsewhere in this permit which contain more stringent reporting and notification
+provisions for an applicable requirement, in which case they supercede those stated here. Such
+reports shall describe why the violation was unavoidable and shall include the time, frequency
+and duration of the maintenance and/or start-up/shutdown activities and the identification of air
+contaminants, and the estimated emission rates. If a facility owner and/or operator is subject to
+continuous stack monitoring and quarterly reporting requirements, he need not submit reports for
+equipment maintenance or start-up/shutdown for the facility to the commissioner's
+representative.
+
+(b)            In the event that emissions of air contaminants in excess of any emission standard
+in 6 NYCRR Chapter III Subchapter A occur due to a malfunction, the facility owner and/or
+operator shall report such malfunction by telephone to the commissioner's representative as soon
+as possible during normal working hours, but in any event not later than two working days after
+becoming aware that the malfunction occurred. Within 30 days thereafter, when requested in
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 62                     FINAL
+Permit ID: 9-1464-00164/00117                   Facility DEC ID: 9146400164
+
+
+writing by the commissioner's representative, the facility owner and/or operator shall submit a
+written report to the commissioner's representative describing the malfunction, the corrective
+action taken, identification of air contaminants, and an estimate of the emission rates. These
+reporting requirements are superceded by conditions elsewhere in this permit which contain
+reporting and notification provisions for applicable requirements more stringent than those
+above.
+
+(c)           The Department may also require the owner and/or operator to include in reports
+described under (a) and (b) above an estimate of the maximum ground level concentration of
+each air contaminant emitted and the effect of such emissions depending on the deviation of the
+malfunction and the air contaminants emitted.
+
+(d)            In the event of maintenance, start-up/shutdown or malfunction conditions which
+result in emissions exceeding any applicable emission standard, the facility owner and/or
+operator shall take appropriate action to prevent emissions which will result in contravention of
+any applicable ambient air quality standard. Reasonably available control technology, as
+determined by the commissioner, shall be applied during any maintenance, start-up/shutdown or
+malfunction condition subject to this paragraph.
+
+(e)    In order to have a violation of a federal regulation (such as a new source performance
+standard or national emissions standard for hazardous air pollutants) excused, the specific
+federal regulation must provide for an affirmative defense during start-up, shutdowns,
+malfunctions or upsets.
+
+Condition 4-11:       Visible Emissions Limited
+                   Effective between the dates of 10/18/2011 and 11/26/2012
+
+                   Applicable State Requirement:6 NYCRR 211.2
+
+                   Replaces Condition(s) 55
+Item 4-11.1:
+Except as permitted by a specific part of this Subchapter and for open fires for which a restricted
+burning permit has been issued, no person shall cause or allow any air contamination source to
+emit any material having an opacity equal to or greater than 20 percent (six minute average)
+except for one continuous six-minute period per hour of not more than 57 percent opacity.
+
+
+
+                             **** Emission Unit Level ****
+
+Condition 56:       Compliance Demonstration
+                   Effective between the dates of 11/27/2007 and 11/26/2012
+
+                   Applicable State Requirement:6 NYCRR 227-1.2 (a) (2)
+
+Item 56.1:
+The Compliance Demonstration activity will be performed for:
+
+     Emission Unit: U-BOILS
+
+     Regulated Contaminant(s):
+             CAS No: 0NY075-00-0           PARTICULATES
+
+                                 Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                     Page 63                     FINAL
+Permit ID: 9-1464-00164/00117                Facility DEC ID: 9146400164
+
+
+
+Item 56.2:
+Compliance Demonstration shall include the following monitoring:
+
+Monitoring Type: INTERMITTENT EMISSION TESTING
+Monitoring Description:
+             This regulation prohibits any person to allow an emission
+             into the outdoor atmosphere of particulates in excess of
+             0.20 pounds per million BTU from any oil fired stationary
+             combustion installation. This regulation is enforceable by
+             New York State and has been proposed in the state's
+             implementation plan to replace 6 NYCRR part 227.1b which
+             limits particulate emissions to 0.10 lb/mmbtu. Conditions
+             for 6NYCRR part 227.1b is also listed in this permit.
+             Until the latest version of 227-1 is approved the lower
+             limit will be enforced. A once per permit term stack test,
+             or within 180 days after first use of oil during the
+             permit term,on one of the identical boilers, must be
+             performed while firing #2 oil to demonstrate compliance
+             with the 227-1 limits in this permit. A protocol must be
+             submitted 45 days prior to the proposed test and a report
+             of results submitted within 45 days after the test.
+
+Upper Permit Limit: 0.20 pounds per million Btus
+Reference Test Method: epa method 5
+Monitoring Frequency: ONCE DURING THE TERM OF THE PERMIT
+Averaging Method: 3-HOUR BLOCK AVERAGE
+Reporting Requirements: AS REQUIRED - SEE MONITORING DESCRIPTION
+
+
+
+
+                               Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                   Page 64                     FINAL
+Permit ID: 9-1464-00164/00117            Facility DEC ID: 9146400164
+
+
+
+
+                            Air Pollution Control Permit Conditions
+Renewal 1/Mod 4/Active                Page 65                     FINAL
+
